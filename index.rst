@@ -13,11 +13,11 @@ Use the side bar for navigation.
    :maxdepth: 2
    :caption: General Rules:
 
-   rules/server.md
-   rules/roleplay.md
-   rules/legal.md
-   rules/criminal.md
-   rules/faction.md
+   rules/server
+   rules/roleplay
+   rules/legal
+   rules/criminal
+   rules/faction
 
 Links
 ==================
