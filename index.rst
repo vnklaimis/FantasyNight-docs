@@ -1,5 +1,5 @@
 Welcome to OwlGaming's documentation!
-===========================================
+######################################
 
 This documentation covers rules and features of the `OwlGaming Community`_.
 This resource uses both markdown and Sphinx in .txt documents.
