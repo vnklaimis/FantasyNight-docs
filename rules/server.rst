@@ -10,7 +10,7 @@ Bugs
 ----
 Using the script in a way that it is not intended for gain is against the rules and the issue should be posted on the `bug tracker`_.
 
-This includes using GTA's physics in a unrealistic way such as bunny hopping and vehicle rolling.
+This includes using GTA's physics in a unrealistic way such as bunny hopping and vehicle stunting by using objects as ramps.
 
 AFKing
 ------
