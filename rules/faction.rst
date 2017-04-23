@@ -1,2 +1,5 @@
 Faction Rules
 ##############
+.. note::
+
+  Stuff

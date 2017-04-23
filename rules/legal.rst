@@ -1,2 +1,5 @@
 Legal Rules
 ############
+.. note::
+
+  Stuff

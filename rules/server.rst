@@ -1,6 +1,8 @@
 Server Rules
 #############
-The server rules are a set of guidelines for OOC actions.
+.. note::
+
+  The server rules are a set of guidelines for OOC actions.
 
 .. _bug tracker: https://bugs.owlgaming.net/
 
