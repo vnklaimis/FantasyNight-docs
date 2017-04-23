@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# OwlGaming Rules documentation build configuration file, created by
+# OwlGaming documentation build configuration file, created by
 # sphinx-quickstart on Sun Apr 23 15:37:03 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -55,7 +55,7 @@ source_suffix = ['.txt', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'OwlGaming Rules'
+project = 'OwlGaming'
 copyright = '2017, OwlGaming Community'
 author = 'OwlGaming Community'
 
@@ -113,7 +113,7 @@ html_static_path = ['.static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'OwlGamingRulesdoc'
+htmlhelp_basename = 'OwlGamingdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -140,7 +140,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'OwlGamingRules.tex', 'OwlGaming Rules Documentation',
+    (master_doc, 'OwlGaming.tex', 'OwlGaming Documentation',
      'OwlGaming Community', 'manual'),
 ]
 
@@ -150,7 +150,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'owlgamingrules', 'OwlGaming Rules Documentation',
+    (master_doc, 'owlgaming', 'OwlGaming Documentation',
      [author], 1)
 ]
 
@@ -161,8 +161,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'OwlGamingRules', 'OwlGaming Rules Documentation',
-     author, 'OwlGamingRules', 'One line description of project.',
+    (master_doc, 'OwlGaming', 'OwlGaming Documentation',
+     author, 'OwlGaming', 'One line description of project.',
      'Miscellaneous'),
 ]
 
