@@ -23,3 +23,12 @@ Vehicles
 ~~~~~~~~
 Vehicles which are used as they are not designed, such a lowrider offroading is considered PowerGaming as the vehicle would not be
 able to perform properly in such conditions.
+
+Deathmatching
+-------------
+Deathmatching is the act of killing another persons character without sufficient reason or proper roleplay.
+
+Player Kills
+------------
+In the event of your character being roleplayly killed, said character loses memory of the said event once respawned. This character may not
+continue the roleplay or return to the same location.
