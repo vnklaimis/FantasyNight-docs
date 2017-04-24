@@ -17,7 +17,7 @@ AFKing
 ======
 AFKing should not be done in a public place or in a way that obstructs others roleplay.
 
-Stat=Transfer Assets
+Stat-Transfer Assets
 =====================
 
 Vehicles
