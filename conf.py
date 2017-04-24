@@ -21,7 +21,7 @@ import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 from recommonmark.parser import CommonMarkParser
-
+from crate.theme.rtd.conf import *
 
 # -- General configuration ------------------------------------------------
 
@@ -92,6 +92,7 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+html_theme = 'crate-docs-theme'
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 if not on_rtd:  # only import and set the theme if we're building docs locally
     import sphinx_rtd_theme
