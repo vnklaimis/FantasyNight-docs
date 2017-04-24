@@ -93,6 +93,10 @@ Law Enforcement Situations
 --------------------------
 After an evasion from law enforcement, or any engagement with such organizations, you must wait 30 minutes prior to logging off.
 
+Provoking
+==========
+Seeking attention from law enforcement by 911 calls to be chased or shouting at cops, etc is prohibited. D
+
 Evidence
 =========
 All actions may leave traces left behind from the roleplay. Such as, but not limited to, CCTV footage, breaking locks, glass, civilian witnesses, etc.

@@ -7,6 +7,10 @@ Server Rules
 
 .. _bug tracker: https://bugs.owlgaming.net/
 
+Scams
+======
+Scamming of vehicles and properties is not allowed by any means.
+
 Bugs
 ====
 Using the script in a way that it is not intended for gain is against the rules and the issue should be posted on the `bug tracker`_.
