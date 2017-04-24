@@ -21,7 +21,7 @@ import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 from recommonmark.parser import CommonMarkParser
-from crate.theme.rtd.conf.crate_server import *
+
 
 # -- General configuration ------------------------------------------------
 
@@ -36,8 +36,7 @@ extensions = ['sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
-    'sphinx.ext.githubpages',
-    'crate.sphinx.csv']
+    'sphinx.ext.githubpages']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['.templates']
