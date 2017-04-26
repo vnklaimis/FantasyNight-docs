@@ -18,6 +18,7 @@ Use the side bar for navigation.
    rules/legal
    rules/criminal
    rules/faction
+   rules/forums
 
 Links
 ==================
