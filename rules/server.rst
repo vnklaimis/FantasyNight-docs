@@ -77,3 +77,34 @@ Billboard texturing can only be done for official legal factions to promote them
 3rd Party Programs officially linked to and managed by OwlGaming, such as our official TeamSpeak and Discord have the same rules regarding advertisements, spamming and harassment. 
 
 These programs are not be used in character or for any sort of in character communication, unless you are in specific and monitored channels that have been approved by the Upper Administration Team. I.e. Approved tactical police faction channels.
+
+External Websites
+=================
+
+Any domain not under direct control of OwlGaming (not an OwlGaming website) may not be utilized for in character purposes. Examples of this would be an external website created to advertise an in character business, a Dropbox to share an in character PDF document or utilization of any Google service such as docs, spreadsheets, etc, mainly used for organization purposes.
+ 
+Exceptions to this rule are approved by the Upper Administration Team on a case-by-case basis and listed publicly. Exceptions will be made under the pretense that the platform being approved allows for full access by the Upper Administration Team as requested in order to prevent meta gaming. You can file for approval via a UAT PC with valid reasoning.
+ 
+**Exceptions:**
+
+*  `Linkbook <http://linkbook.thomaspwn.com/>`_
+* Google Drive (Docs, spreadsheets, etc.)
+
+  * Los Santos County Sheriff's Department
+  * Los Santos County Fire Department
+  * Los Santos County Government
+  * Superior Court of San Andreas
+  * Bureau of Traffic Services
+  * All Saints General Hospital
+  
+*  `JGC <http://www.jgcweb.net/>`_
+*  `Los Santos Pawn <http://lspawn.byethost12.com/?i=1>`_
+*  `Sabor Colombiano <http://andreshenao3.wixsite.com/saborcolombiano>`_
+*  `Fairbet <https://fairbet.bruk.pt/>`_
+*  `Hopwood Enterprises <http://hopwoodenterprises.altervista.org/>`_
+*  `SONE <http://andreshenao3.wixsite.com/sone>`_
+*  `Metro Public Safety - RMPF <http://mps-tech.tk/>`_
+*  `Mondinin Incorporated <http://mondini.webs.com/>`_
+*  `Rudolf Ardelmann Clothing <https://bartiex.wixsite.com/rardelmann>`_
+
+ 
