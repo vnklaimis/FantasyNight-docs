@@ -2,8 +2,7 @@
 Criminal Rules
 ##############
 .. note::
-
-The OwlGaming Criminal Roleplay Rules are set up due to the high amount of criminal roleplayers and in order to set limitations and somehow create a market. Money should flow and allowing only certain people to do specific actions can ensure that. We also aim to let people venture in new kinds of roleplay, which they didn't do before, sadly this has to be done by setting limitations, sometimes.
+ The OwlGaming Criminal Roleplay Rules are set up due to the high amount of criminal roleplayers and in order to set limitations and somehow create a market. Money should flow and allowing only certain people to do specific actions can ensure that. We also aim to let people venture in new kinds of roleplay, which they didn't do before, sadly this has to be done by setting limitations, sometimes.
 
 Restricted Areas
 ================
@@ -35,19 +34,19 @@ If administrative intervention is necessary to complete a robbery or theft, such
 
 You may not rob / steal:
 
-  * If you have less than 10 hours on your character.
-  * Other characters with less than 5 hours.
-  * On-duty law enforcement officer's equipment without administraive permission.
-  * Faction badges or identification cards.
-  * Automated teller machine cards (unless the player agrees).
-  * Private custom skins (unless the player agrees).
-  * More than $3,000 from someone's bank account utilizing their stolen automated teller card (unless they agree).
+* If you have less than 10 hours on your character.
+* Other characters with less than 5 hours.
+* On-duty law enforcement officer's equipment without administraive permission.
+* Faction badges or identification cards.
+* Automated teller machine cards (unless the player agrees).
+* Private custom skins (unless the player agrees).
+* More than $3,000 from someone's bank account utilizing their stolen automated teller card (unless they agree).
   
  Some pieces of property require Upper Administration Approval to break into. They are:
 
-  * Evidence Storage
-  * Ammunation
-  * Banks
+* Evidence Storage
+* Ammunation
+* Banks
 
 Residential Property
 --------------------
