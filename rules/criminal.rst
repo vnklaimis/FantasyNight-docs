@@ -33,6 +33,22 @@ Property Break-Ins & Robbery & Theft
 ====================================
 If administrative intervention is necessary to complete a robbery or theft, such as unlocking a door that was kicked in, it must adhere to the following rules and needs administrative approval. If a door was left open for example and you just walked in, you do not need to follow the rules below or approval.
 
+You may not rob / steal:
+
+  * If you have less than 10 hours on your character.
+  * Other characters with less than 5 hours.
+  * On-duty law enforcement officer's equipment without administraive permission.
+  * Faction badges or identification cards.
+  * Automated teller machine cards (unless the player agrees).
+  * Private custom skins (unless the player agrees).
+  * More than $3,000 from someone's bank account utilizing their stolen automated teller card (unless they agree).
+  
+ Some pieces of property require Upper Administration Approval to break into. They are:
+
+  * Evidence Storage
+  * Ammunation
+  * Banks
+
 Residential Property
 --------------------
 All private residential property may be broken into and burglarized. The owner of the property must be online when the request is made in conjunction with at least two law enforcement officers. 
@@ -52,27 +68,7 @@ Law enforcement and emergency services personnel may enter properties without th
 Safes
 -----
 Unless otherwise specified, all safes in interiors are to be roleplayed as mid-tier household safes.
-
-Specific Limitations
---------------------
-Some pieces of property require Upper Administration Approval to break into. They are:
-
-  * Evidence Storage
-  * Gun Shops
-  * Banks
   
-Robberies In General
---------------------
-You may not rob / steal:
-
-  * If you have less than 10 hours on your character.
-  * Other characters with less than 5 hours.
-  * On-duty law enforcement officer's equipment without administraive permission.
-  * Faction badges or identification cards.
-  * Automated teller machine cards (unless the player agrees).
-  * Private custom skins (unless the player agrees).
-  * More than $3,000 from someone's bank account utilizing their stolen automated teller card (unless they agree).
-
 Character Robberies
 -------------------
 You may not player kill someone just before, during, or directly after a petty robbery. This is to prevent abuse of the amnesia effect when normally violence would not be utilized. The exception to this is if someone shows disregard for their life or there is some other exigent circumstance such as police showing up and you shoot at them to prevent them tackling you if you try to escape.
@@ -84,3 +80,5 @@ Vehicle robbery means vehicles which are broken into and have the contents insid
 Vehicle Theft
 -------------
 Vehicle theft refers to actually taking and moving the vehicle in question. This may only be done or attempted once every 24 hours. Just like robbery, government vehicles require permission from an upper administrator. An exception to this is a spontaneous vehicle pursuit and the government vehicle in question is co-opted.
+
+When stealing a vehicle left running on the streets, the owner must be online. If he is not online, it is most likely due to a bug. If the key is in the inventory of a vehicle, you may steal the car without admin permission.
