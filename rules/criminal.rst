@@ -8,6 +8,8 @@ Restricted Areas
 ================
 You may not commit serious crimes on purpose in high profile areas without adequate law enforcement on duty. You may check if there are enough law enforcement by asking an administrator. This limitation, however, is not to be used as a "safe zone". If you are being chased by an attacker and run onto the steps of a police station, this does not mean they must suddenly stop all illegal activity.
 
+Examples of high profile areas:
+
 * Los Santos County Sheriff's Department HQ & precincts (including their surrounding perimeters)
 * All Saints General Hospital / County General Hospital (including their surrounding perimeters)
 * Los Santos Fire Department HQ & subdivision buildings (including their surrounding perimeters)
@@ -74,10 +76,10 @@ You may not player kill someone just before, during, or directly after a petty r
   
 Vehicle Robbery
 ---------------
-Vehicle robbery means vehicles which are broken into and have the contents inside stolen. They do not require the owner to be online and are treated like faction or government property robberies, however, government vehicles require permission from an upper administrator to be broken into.
+Vehicle robbery means vehicles which are broken into and have the contents inside stolen. They do not require the owner to be online and are treated like faction or government property robberies, however, government vehicles require permission from an administrator to be broken into.
 
 Vehicle Theft
 -------------
-Vehicle theft refers to actually taking and moving the vehicle in question. This may only be done or attempted once every 24 hours. Just like robbery, government vehicles require permission from an upper administrator. An exception to this is a spontaneous vehicle pursuit and the government vehicle in question is co-opted.
+Vehicle theft refers to actually taking and moving the vehicle in question. This may only be done or attempted once every 24 hours. Just like robbery, government vehicles require permission from an administrator. An exception to this is a spontaneous vehicle pursuit and the government vehicle in question is co-opted.
 
-When stealing a vehicle left running on the streets, the owner must be online. If he is not online, it is most likely due to a bug. If the key is in the inventory of a vehicle, you may steal the car without admin permission.
+If the key is in the inventory of a vehicle, you may steal the car without admin permission. If the player timed out you may not steal the vehicle, an admin can check connection logs to determine if the player timed out.
