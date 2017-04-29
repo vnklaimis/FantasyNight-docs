@@ -63,7 +63,7 @@ Portraying yourself as a staff member is strictly forbidden and may lead to hars
 
 NSFW Material
 ======
-All NSFW (Not Safe For Work) material is prohibited in the community. If, for some reason, the spreading of this type of material is mandatory, be it for roleplay purposes or in limited target groups, it must be accompanied by a warning to receiving users. NSFW material cannot be spread in general forums, global chats, public chats or public channels. This goes both for the server, the forums, Discord and TeamSpeak.
+All NSFW (Not Safe For Work) material is prohibited in the community. If, for some reason, the spreading of this type of material is mandatory, be it for roleplay purposes or in limited target groups, it must be accompanied by a warning to receiving users. NSFW material cannot be spread in general forums, global chats, public chats or public channels unless it is explicitly allowed.
 
 Retexturing
 ------------------
