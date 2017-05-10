@@ -6,17 +6,19 @@ Criminal Rules
 
 Restricted Areas
 ================
-You may not commit serious crimes on purpose in high profile areas without adequate law enforcement on duty. You may check if there are enough law enforcement by asking an administrator. This limitation, however, is not to be used as a "safe zone". If you are being chased by an attacker and run onto the steps of a police station, this does not mean they must suddenly stop all illegal activity.
+You may not commit serious crimes on purpose in high profile areas without adequate law enforcement on duty. You may check if there are enough law enforcement by asking an administrator. This limitation, however, is not to be used as a "safe zone". If you are being chased by an attacker and run onto the steps of a police station, this does not mean they must suddenly stop all illegal activity. The following zones include all of their reasonable surrounding perimiters.
 
-Examples of high profile areas:
+All restricted areas may have crimes purposefully committed on them such as robberies of banks with permission from the UAT.
 
-* Los Santos County Sheriff's Department HQ & precincts (including their surrounding perimeters)
-* All Saints General Hospital / County General Hospital (including their surrounding perimeters)
-* Los Santos Fire Department HQ & subdivision buildings (including their surrounding perimeters)
-* City Hall (including its surrounding perimeters)
-* Bank of Los Santos - Rodeo Bank perimeter (with the exception of a permitted robbery)
-* Superior Court of San Andreas HQ (including its surrounding perimeters)
-* San Andreas Detention Center (including their and it's surrounding perimeters)
+Examples:
+
+* Government Buildings such as County Hall, Memorials, Court Houses, Court Offices, and similar Facilities
+* All Saints General Hospital, County General Hospital, or similar Medical Facilities
+* Los Santos Police Department HQ and Precincts and Facilities
+* Los Santos Fire Department HQ & Facilities 
+* San Andreas Detention Center
+* Bank of Los Santos 
+
 
 Arson
 =====
