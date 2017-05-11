@@ -224,3 +224,9 @@ CCTV Cameras
 CCTV Cameras are by default, roleplayed as a 90 degree angle camera with 480p resolution at 5 frames per second. The data must be stored somewhere when roleplaying the install. All CCTV camera installations/upgrades must be approved by an administrator and added to the interior note. Footage is wiped at the end of the week if nothing of significance has occurred unless otherwise specified.
 
 All government buildings and gas stations are assumed to have sufficient cameras to cover most common angles both inside and outside.
+
+Roleplay Zone
+=============
+All roleplay must be done within a confined zone known as " `Los Santos County <https://imgkk.com/i/44da.jpg>`_ ". There are exceptions for dynamic situations such as car chases which may naturally lead outside of the roleplay zone. Additional exceptions may be specific ones approved by the Upper Administration Team such as the drag strip in Las Venturas. 
+
+
