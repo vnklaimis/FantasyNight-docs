@@ -195,7 +195,7 @@ Players are forbidden from logging out during a roleplay unless approved by an a
 
 Law Enforcement Situations
 --------------------------
-After an evasion from law enforcement, or any engagement with such organizations, you must wait 30 minutes prior to logging off.
+After criminal activity in which Law Enforcement may become involved, you must wait 30 minutes prior to logging off.
 
 Provoking
 ==========
