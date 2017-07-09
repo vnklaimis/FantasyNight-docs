@@ -66,12 +66,12 @@ All stores must be set as “business” type ID.
 
 General Stores (24/7, corner stores, small shops for items found in these businesses)
 If property price $10,000 - $35,000:
-*1 NPC for general store items
-*1 Custom NPC
+* 1 NPC for general store items
+* 1 Custom NPC
 
 If property price is  $35,000 - $50,000:
-*2 NPCs for general store items
-*2 Custom NPCs
+* 2 NPCs for general store items
+* 2 Custom NPCs
 
 If property price is $50,000+:
 3 NPCs for general store items
