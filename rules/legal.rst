@@ -65,6 +65,7 @@ Store classes and limitations:
 All stores must be set as “business” type ID.
 
 General Stores (24/7, corner stores, small shops for items found in these businesses)
+-----------
 If property price $10,000 - $35,000:
 1 NPC for general store items
 1 Custom NPC
