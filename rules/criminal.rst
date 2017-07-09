@@ -24,6 +24,8 @@ Arson
 =====
 Comitting arson requires that an adequate number of emergency service employees are online to respond to the fire and must be approved by any administrator. All arson requires the owner of the property to be online when the request is made to administrators.
 
+Note: It is assumed that all gas stations and government buildings have fire prevention systems.
+
 Small Fires
 -----------
 Vehicles, small buildings without anyone inside, sheds, and similar places may be targeted with arson provided that there are at least two firefighters online.
