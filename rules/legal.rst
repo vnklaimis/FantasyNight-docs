@@ -17,6 +17,8 @@ In general, generic items that adversely affect others during roleplay situation
 
 All legally obtainable generics must be purchased in character through shops or the appropriate faction providing delivery services. Minor exceptions may be made on a case-by-case basis for spawning legal items under specific situations which are time sensitive such as needing a tire iron to change a tire when it is otherwise completely unavailable or where an item would reasonably be present and is necessary to roleplay like breaking into a police car and stealing the computer inside.
 
+If one decides to roleplay having jewelry of significance, they need to have a generic made for it. This is the case for expensive watches, rings, and other luxurious jewelry. A simple wrist watch does not need a generic made for it.
+
 Exceptions for items which are not rare and commonly available at big box stores may be made by the handling administrator at their own discretion.
 
 Generic items are not to be used in world 0 to replace exterior world mapping.
