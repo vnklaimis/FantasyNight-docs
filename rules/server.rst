@@ -101,7 +101,7 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
   * All Saints General Hospital
   
 *  `JGC <http://www.jgcweb.net/>`_
-*  `Los Santos Pawn <http://lspawn.byethost12.com/?i=1>`_
+*  `Los Santos Pawn <http://lspawn.xyz>`_
 *  `Sabor Colombiano <http://andreshenao3.wixsite.com/saborcolombiano>`_
 *  `Fairbet <https://fairbet.bruk.pt/>`_
 *  `Hopwood Enterprises <http://hopwoodenterprises.altervista.org/>`_
