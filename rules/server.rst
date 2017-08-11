@@ -109,5 +109,6 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `Metro Public Safety - RMPF <http://mps-tech.tk/>`_
 *  `Mondinin Incorporated <http://mondini.webs.com/>`_
 *  `Rudolf Ardelmann Clothing <https://bartiex.wixsite.com/rardelmann>`_
+*  `LS Roll n' Bowl <http://www.lsrollnbowl.com>`_
 
  
