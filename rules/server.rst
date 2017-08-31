@@ -110,5 +110,11 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `Mondinin Incorporated <http://mondini.webs.com/>`_
 *  `Rudolf Ardelmann Clothing <https://bartiex.wixsite.com/rardelmann>`_
 *  `LS Roll n' Bowl <http://www.lsrollnbowl.com>`_
+*  `Beast Kustoms <https://beastkustoms.simdif.com>`_
+*  `Griffin Automotive LLC <http://griffinautomotive.cf>`_
+*  `Highley Towing <http://highleytowing.x10.bz/index.php>`_
+*  `M-Corporation <http://mcorp.ultraplay.lv>`_
+
+
 
  
