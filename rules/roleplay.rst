@@ -78,7 +78,7 @@ No application is needed to player kill someone. Only a solid in character reaso
 
 Roleplaying After a Player Kill
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If a character is player killed and the scene is left after they respawn, the players involved should roleplay that the unconscious character is found by a good samaritain, emergency services were called and they were taken to the hospital. The person that was player killed would then after they respawn at the hospital, roleplay in the hospital for a period of time for their injuries to heal and continue to roleplay those injuries accordingly.
+If a character is player killed and the scene is left after they respawn, the players involved should roleplay that the unconscious character is found by a good Samaritan, emergency services were called and they were taken to the hospital. The person that was player killed would then after they respawn at the hospital, roleplay in the hospital for a period of time for their injuries to heal and continue to roleplay those injuries accordingly.
 
 Do not respawn and immediately run around as if nothing happened!
 
@@ -94,7 +94,7 @@ A character kill is when your character is permanently killed and the ability to
 
 An `application <https://forums.owlgaming.net/forms/20-general-administration-character-kill-appeal-ooc/>`_ is necessary to character kill someone due to the severity of it. If your character kill application is sensitive, you may send make a `private <https://forums.owlgaming.net/forms/8-senior-administration-private-character-kill-application-ooc/>`_ request which is sent to our senior administrators. Private character kills may be sent to upper administration members as well for the most privacy. Additionally, character kills may be accepted in game by a single administrator for situations where you require a quick response where you otherwise could not wait for an application.
 
-In order for a character kill to be valid, the character being killed must be killed script wise. There are a few types of exceptions to this. If for example someone's foot is exposed and it is shot over and over and they die script wise, they would not necessairly realistically die. Thus, if they received reasonable medical treatment before they bled out, they'd survive and lose their foot. On the other hand, if that person hadn't received prompt medical attention, they would bleed out and die, warranting a character kill. Another example of this would be if someone is run over by a vehicle. With the game physics, they may not lose very much health, but in reality, they would very easily be killed at a high speed impact.
+In order for a character kill to be valid, the character being killed must be killed script wise. There are a few types of exceptions to this. If for example someone's foot is exposed and it is shot over and over and they die script wise, they would not necessarily realistically die. Thus, if they received reasonable medical treatment before they bled out, they'd survive and lose their foot. On the other hand, if that person hadn't received prompt medical attention, they would bleed out and die, warranting a character kill. Another example of this would be if someone is run over by a vehicle. With the game physics, they may not lose very much health, but in reality, they would very easily be killed at a high speed impact.
 
 Character Kill Scenarios
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -102,7 +102,7 @@ A character kill scenarios is exactly as it sounds, a scenario of serious rolepl
 
 In order for a character kill scenario to be valid, there must be proof. An administrator must witness the situation or there must be roleplay logs, a video, credible eye witnesses or comprehensive screen shots then shown to the handling administrator. Character kill scenarios may happen at any time an administrator deems necessary, thus, players should always be realistic and careful as they would in real life.
 
-A character kill scenario may not necessairly be publically mentioned to people involved to prevent metagaming where people shoot just to get a character kill where they otherwise wouldn't have shot if they didn't know them shooting someone was a guaranteed character kill on another player.
+A character kill scenario may not necessarily be publicly mentioned to people involved to prevent metagaming where people shoot just to get a character kill where they otherwise wouldn't have shot if they didn't know them shooting someone was a guaranteed character kill on another player.
 
 Below are some brief examples of character kill scenarios. They are by no means a comprehensive list showing the only situations you may be character killed but instead serve to give you a better idea of what are the most common scenarios.
 
@@ -126,7 +126,7 @@ Robberies which are organized, whether spur of the moment or heavily pre-planned
 
 Planned or Supervised Events
 """"""""""""""""""""""""""""
-Some events such as large fires, catastrophic weather, terrorist attacks, freak accidents, etc, are pre-planned or setup and supervised by admins. Some naturally occuring events become these types of large situations such as a large gang shootout, large pile-up car accident, and so on. During these types of events players may be eligible for a character kill as well.
+Some events such as large fires, catastrophic weather, terrorist attacks, freak accidents, etc, are pre-planned or setup and supervised by admins. Some naturally occurring events become these types of large situations such as a large gang shootout, large pile-up car accident, and so on. During these types of events players may be eligible for a character kill as well.
 
   * A plane crashes into a building where the fuel catches on fire and you are caught in the blaze.
 
@@ -168,7 +168,7 @@ If a situation arises where the death of a police officer is justified by the ha
 
 Character Kill Clauses
 ^^^^^^^^^^^^^^^^^^^^^^
-Factions may have a character kill clause that you inherently take upon yourself by associating with them. These factions are genearlly illegal ones. In order for a character kill clause to be valid it must be present on their thread and submitted to the Faction Team so they are aware of it and can validate your claim of the clause in the future to ensure it is not being made up.
+Factions may have a character kill clause that you inherently take upon yourself by associating with them. These factions are generally illegal ones. In order for a character kill clause to be valid it must be present on their thread and submitted to the Faction Team so they are aware of it and can validate your claim of the clause in the future to ensure it is not being made up.
 
 Generally character kill clauses for factions cover anyone who is an associate and above. The criteria for someone to be character killed is nearly endless and is generally approved by a leader of the faction. This is the inherent risk in being part of illegal roleplay. You are considered an “associate” and above if you willingly take part in illegal activity with an associate or member of the faction.
 
@@ -227,6 +227,4 @@ All government buildings and gas stations are assumed to have sufficient cameras
 
 Roleplay Zone
 =============
-All roleplay must be done within a confined zone known as " `Los Santos County <https://imgkk.com/i/44da.jpg>`_ ". There are exceptions for dynamic situations such as car chases which may naturally lead outside of the roleplay zone. Additional exceptions may be specific ones approved by the Upper Administration Team such as the drag strip in Las Venturas. 
-
-
+All roleplay must be done within a confined zone known as "`Los Santos County <https://imgkk.com/i/44da.jpg>`_". There are exceptions for dynamic situations such as car chases which may naturally lead outside of the roleplay zone. Additional exceptions may be specific ones approved by the Upper Administration Team such as the drag strip in Las Venturas.
