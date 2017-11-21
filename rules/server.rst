@@ -114,7 +114,7 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `Griffin Automotive LLC <http://griffinautomotive.cf>`_
 *  `Highley Towing <http://highleytowing.x10.bz/index.php>`_
 *  `M-Corporation <http://mcorp.ultraplay.lv>`_
-
+*  `Diamond News <http://diamondcorporation.cf/news>`_
 
 
  
