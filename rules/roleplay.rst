@@ -112,7 +112,7 @@ Someone showing disregard for their own life or unnecessary risk such as acting 
 
   * Pulling a gun out on a police officer during a traffic stop when you are going to receive a traffic infraction, your character is then killed.
 
-  * Reckless handling of a vehicle and crashing it which would clearly result in death.
+  * Reckless handling of a vehicle or aircraft and crashing it which would clearly result in death.
 
   * Police acting like they’re invincible, failing to follow proper safety protocol, acting out unrealistically in situations where they normally wouldn’t.
 
@@ -148,9 +148,6 @@ Roleplaying Death
 """""""""""""""""
 When any player roleplays death it will result in a character kill. A player cannot kill themselves or roleplay death and then have it appealed to come back, or try to roleplay coming back to life (unless assisted by CPR or defibrillators) within reasonable limits.
 
-Aircraft crashes
-"""""""""""""""""
-In order to improve and force realism on aircrafts, any crash that resulted in death will be transformed into a Character Kill. This only applies to the person in command of the aircraft.
 
 Infiltrating Organizations
 """"""""""""""""""""""""""
