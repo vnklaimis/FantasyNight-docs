@@ -150,7 +150,7 @@ When any player roleplays death it will result in a character kill. A player can
 
 Aircraft crashes
 """""""""""""""""
-In order to improve and force realism in aircrafts, any crash that resulted in death will be transformed into a Character Kill. This only applies to the person in command of the aircraft.
+In order to improve and force realism on aircrafts, any crash that resulted in death will be transformed into a Character Kill. This only applies to the person in command of the aircraft.
 
 Infiltrating Organizations
 """"""""""""""""""""""""""
