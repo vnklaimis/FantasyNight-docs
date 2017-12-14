@@ -148,6 +148,10 @@ Roleplaying Death
 """""""""""""""""
 When any player roleplays death it will result in a character kill. A player cannot kill themselves or roleplay death and then have it appealed to come back, or try to roleplay coming back to life (unless assisted by CPR or defibrillators) within reasonable limits.
 
+Aircraft crashes
+"""""""""""""""""
+In order to improve and force realism in aircrafts, any crash that resulted in death will be transformed into a Character Kill. This only applies to the person in command of the aircraft.
+
 Infiltrating Organizations
 """"""""""""""""""""""""""
 Characters that infiltrate an organization to gain intelligence, insiders knowledge, evidence, or any other means of information that could harm the survival of an organization. This clause focuses primarily on law enforcement infiltrating criminal organizations, but is applicable the other way around or with criminal organizations infiltrating each other as well.
