@@ -1,4 +1,5 @@
-# OwlGaming Documentation
+# OwlGaming Documentation ![](https://readthedocs.org/projects/owlgaming/badge/?version=latest)
+
 The OwlGaming Documentation.
 
 This can be found at https://docs.owlgaming.net/
