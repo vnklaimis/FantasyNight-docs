@@ -6,7 +6,7 @@ General Misconduct
 ==================
 Do not troll, flame, spam, post meaningless content such as single word or off-topic replies, melodramatic or bewailing content or participate in otherwise disruptive behavior. 
 
-Constructive criticism and rational or mature discussion which may illicit an overeactive response does not mean the person making the valid point is trolling or flaming. Insulting someone because of a post they made is flaming, telling them you disagree because of a certain reason is not. 
+Constructive criticism and rational or mature discussion which may illicit an overeactive response does not mean the person making the valid point is trolling or flaming. Insulting someone because of a post they made is flaming, telling them you disagree because of a certain reason is not. Toxic behaviour expressed by creating drama, or continous negative posts without room for meaningful discussion is not allowed.
 
 Illegal Content
 ===============
@@ -41,6 +41,10 @@ We have a forum auction system which may be used by the players. The rules are f
 Plagiarism
 ==========
 Do not utilize someone else's personal content without their permission or pass it off as your own.
+
+Doxing
+=======
+Do not research or broadcast, personal or identifiable information about an individual without explicit permission.
 
 
 *Forum administrators may issue warnings, infractions, or bans at their own discretion for breaking the forum rules. You may appeal all punishments at our ticket center* `HERE. <https://owlgaming.net/support/>`_ *Content and works submitted by posting, submission, file uploads, and file links, which were created or posted by you, may be used, modified, deleted, etc, at the discretion of Owl Gaming.*
