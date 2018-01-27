@@ -68,7 +68,7 @@ Death
 
 Player Kills
 ------------
-A player kill is when your character is script killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning.
+A player kill is when your character is killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning.
 
 **Example**
 
@@ -84,21 +84,21 @@ Do not respawn and immediately run around as if nothing happened!
 
 Character Kills
 ---------------
-A character kill is when your character is permanently killed and the ability to access that character is disabled via script function. They serve as a means of permanently ending a character's life and their story.
+A character kill is when your character is permanently killed and the ability to access that character is disabled via script function. They serve as a means of permanently ending a character's life and their story. Character kills should not be taken lightly. Remember, a majority of situations can be dealt with before resorting to a character kill by beating, player kill, etc.
 
 **Example**
 
-  John Smith over time due to his addictive personality accumulated gambling debt from a local underground poker facility. Weeks pass     and John Smith fails to make consistent payments on the gambling debt, totaling $50,000. He is threatened and beat up but continues     failing to pay his debt. The poker facility manager and crime boss decides to kill John Smith as retribution for not paying back the     money and to send a message to the other people that owe him money that they should pay in a timely manner.
+  John Smith over time due to his addictive personality accumulated gambling debt from a local underground poker establishment. Weeks pass     and John Smith fails to make consistent payments on the gambling debt, totaling $50,000. He is threatened and beat up but continues     failing to pay his debt. The poker facility manager and crime boss decides to kill John Smith as retribution for not paying back the     money and to send a message to the other people that owe him money that they should pay in a timely manner.
 
-  $50,000 is a substantial amount of money. If a smaller amount is owed, say, $10,000, a severe beating may be in order and perhaps the   crime boss' goons break into his house and steal stuff from him to get some payment and a loan would never be given to John Smith       again because $10,000 would likely not warrant something as severe as murder.
+  A sum of $50,000 is a substantial amount of money. If a smaller amount is owed, say, $10,000, a severe beating may be in order and perhaps the   crime boss' goons break into his house and steal stuff from him to get some payment and a loan would never be given to John Smith       again because $10,000 would likely not warrant something as severe as murder.
 
 An `application <https://forums.owlgaming.net/forms/20-general-administration-character-kill-appeal-ooc/>`_ is necessary to character kill someone due to the severity of it. If your character kill application is sensitive, you may send make a `private <https://forums.owlgaming.net/forms/8-senior-administration-private-character-kill-application-ooc/>`_ request which is sent to our senior administrators. Private character kills may be sent to upper administration members as well for the most privacy. Additionally, character kills may be accepted in game by a single administrator for situations where you require a quick response where you otherwise could not wait for an application.
 
-In order for a character kill to be valid, the character being killed must be killed script wise. There are a few types of exceptions to this. If for example someone's foot is exposed and it is shot over and over and they die script wise, they would not necessarily realistically die. Thus, if they received reasonable medical treatment before they bled out, they'd survive and lose their foot. On the other hand, if that person hadn't received prompt medical attention, they would bleed out and die, warranting a character kill. Another example of this would be if someone is run over by a vehicle. With the game physics, they may not lose very much health, but in reality, they would very easily be killed at a high speed impact.
+In order for a character kill to be valid, the character being killed should generally be killed script wise. There are a few types of exceptions to this. If for example someone's foot is exposed and it is shot over and over and they die script wise, they would not necessarily realistically die. Thus, if they received reasonable medical treatment before they bled out, they'd survive and lose their foot. On the other hand, if that person hadn't received prompt medical attention, they would bleed out and die, warranting a character kill even if they hadn't died scriptwise. Another example of this would be if someone is run over by a vehicle. With the game physics, they may not lose very much health, but in reality, they would very easily be killed at a high speed impact.
 
 Character Kill Scenarios
 ^^^^^^^^^^^^^^^^^^^^^^^^
-A character kill scenarios is exactly as it sounds, a scenario of serious roleplay where character kills are issued to characters that die. These are common in roleplay events and large or serious situations.
+A character kill scenario is exactly as it sounds, a scenario of serious roleplay where character kills are issued to characters that die. These are common in roleplay events and large or serious situations.
 
 In order for a character kill scenario to be valid, there must be proof. An administrator must witness the situation or there must be roleplay logs, a video, credible eye witnesses or comprehensive screen shots then shown to the handling administrator. Character kill scenarios may happen at any time an administrator deems necessary, thus, players should always be realistic and careful as they would in real life.
 
@@ -112,9 +112,11 @@ Someone showing disregard for their own life or unnecessary risk such as acting 
 
   * Pulling a gun out on a police officer during a traffic stop when you are going to receive a traffic infraction, your character is then killed.
 
-  * Reckless handling of a vehicle or aircraft and crashing it which would clearly result in death.
+  * Reckless handling of a vehicle or aircraft and crashing it which would clearly result in death, especially at a very high rate of speed.
 
   * Police acting like they’re invincible, failing to follow proper safety protocol, acting out unrealistically in situations where they normally wouldn’t.
+  
+Please note, not all forms of disregard must or even should result in a character kill. The circumstances of the scenario and context matter greatly. If someone is resisting capture or kidnapping against 4 people, their chances of actually escaping and telling the police is slim to none which means if one of those 4 kidnappers is a hothead and shoots the person resisting capture, it should not be immediately deemed a character kill. The weight of their actions should be taken into account.
 
 Organized Robberies
 """""""""""""""""""
@@ -123,6 +125,8 @@ Robberies which are organized, whether spur of the moment or heavily pre-planned
   * Your character is being robbed by someone who is wielding a gun, rather than give up the $100 you have in your wallet, you pull your own gun out and attempt to shoot the robber. The robber then shoots and kills you.
 
   * A car of gang members burst into a convenient store to rob it. Inside is someone carrying a gun. Upon seeing the men aim a gun at the cashier, they draw their gun and manage to shoot two of the robbers and kill them.
+
+Furthermore, just like with disregard for life, not all robbery related deaths have to be character kills. If robbers jump out of a van and aim guns at a woman on the side of the street, it is a normal, instinctive reaction for someone to immediately run at the first sight of a gun. If that woman is then shot in the back, her death wouldn't be considered a character kill. If she is, however, cornered in an allyway for a moment with guns to her face and she tries to run or escape or physically resist, she's had some time to think about the scenario and running isn't a purely instinctual response at that point, thus, her death could be a character kill. (Though again, it could just as easily be a player kill too! Those do have severe consequences!)
 
 Planned or Supervised Events
 """"""""""""""""""""""""""""
@@ -134,20 +138,9 @@ Some events such as large fires, catastrophic weather, terrorist attacks, freak 
 
   * A man hunt for a criminal within a certain area who is knowingly armed and dangerous.
 
-Provoking
-"""""""""
-Provoking other characters, especially those who may be violent or angry just like in real life can be a dangerous endeavor.
-
-  * A police officer provoking criminals who are known to be violent and may be armed in their neighborhood by taunting, name calling, harassment, etc.
-
-  * Speeding past the police repeatedly and taunting them for police chases, which results in the suspect crashing their vehicle severely.
-
-* Entering a known gang area and wearing rival gang colors, acting invincible while alone, etc.
-
 Roleplaying Death
 """""""""""""""""
-When any player roleplays death it will result in a character kill. A player cannot kill themselves or roleplay death and then have it appealed to come back, or try to roleplay coming back to life (unless assisted by CPR or defibrillators) within reasonable limits.
-
+When any player roleplays death it may result in a character kill. A player cannot kill themselves or roleplay death and then have it appealed to come back, or try to roleplay coming back to life (unless assisted by CPR or defibrillators) within reasonable limits.
 
 Infiltrating Organizations
 """"""""""""""""""""""""""
@@ -161,9 +154,13 @@ Characters that infiltrate an organization to gain intelligence, insiders knowle
 
 Police Situations
 """""""""""""""""
-If a situation arises where the death of a police officer is justified by the hands of (a) criminal(s) due to serious ramifications that the player would suffer if caught, a character kill may be enforced for both parties. Police officers as a whole though are not character killed if they are simply doing their job and character kills on police officers are also not justified if you are utilizing violence on a police officer to prevent yourself from being caught for less substantial crimes such as robbery, battery, drug dealing, weapon possession, etc.
+A brief forewarning, not all shootings or scenarios need to be character kills. Just because a character kill may happen does not mmean it has to happen. Admins are encouraged to treat more shootings and situations as player kills and be more strict about character kills because it will generate more roleplay for everyone involved. 
 
-  * A criminal has an arrest warrant out on them for murder which would result in life in prison. The player shoots at the police officer to prevent the officer from identifying and arresting them so they may escape. The police officer may be killed in this situation where substantial stakes are at risk.
+If a situation arises where the death of a police officer is justified by the hands of (a) criminal(s) due to serious ramifications that the player would suffer if caught, a character kill may be enforced for both parties. Police officers as a whole though are not character killed if they are simply doing their job and character kills on police officers are also not justified if you are utilizing violence on a police officer to prevent yourself from being caught for less substantial crimes such as robbery, battery, drug dealing, weapon possession, etc. Players who escalate the level of force used against police officers cannot use that escalation to justify a character kill. An example of this will be below.
+
+  * A criminal is fleeing police custody for a drug charge. If they shoot at police to escape this, it wouldn't be a character kill because the punishment they are fleeing from is not essentially life threatening like life in prison would be for murder. If the criminal fleeing police for a drug charge shoots at the police, even though this was escalated to potentially attempted murder, a character kill wouldn't be valid because the escalation was done by the fleeing party. Forcing a character kill on the officer at this point would mean that the vast majority of police deaths like this are character kills which is unsustainable.
+
+  * A criminal has an arrest warrant out on them for murder which would result in life in prison. The player shoots at the police officer to prevent the officer from identifying and arresting them so they may escape. The police officer may be killed in this situation where substantial stakes are at risk. Foreknowledge is a mitigating factor in this circumstance. If the officer did not know there was an arrest warrant for murder, the chances of them being character killed are reduced. If they did know they had an arrest warrant on them for murder, the chances are increased.
 
   * During a gun deal where a high-level gang leader is involved a police officer pulls up on them. In order to protect the identity of the high-level gang leader and prevent an investigation which could cripple the gang, everyone flees and a few of the gang members at the deal shoot at the police officer, killing them.
 
