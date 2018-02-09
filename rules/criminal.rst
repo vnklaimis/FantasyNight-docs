@@ -40,7 +40,7 @@ If planning to leave a character to starve to death, one must have a CK applicat
 
 Property Break-Ins & Robbery & Theft
 ====================================
-If administrative intervention is necessary to complete a robbery or theft, such as unlocking a door that was kicked in, it must adhere to the following rules and needs administrative approval. If a door was left open for example and you just walked in, you do not need to follow the rules below or approval.
+If administrative intervention is necessary to complete a robbery or theft, such as unlocking a door that was kicked in, it must adhere to the following rules and needs administrative approval. If a door was left open for example and you just walked in, you do not need to follow the rules below or approval. An administrator is needed if property break-ins are done through the use of a door ram and you are not law enforcement.
 
 You may not rob / steal:
 
@@ -56,7 +56,7 @@ You may not rob / steal:
  Some pieces of property require Upper Administration Approval to break into. They are:
 
 * Evidence Storage
-* Ammunation
+* Ammunations
 * Banks
 
 Residential Property
@@ -69,7 +69,7 @@ Commercial property such as storefronts, offices, businesses, etc, may be broken
 
 Faction & Government Property
 -----------------------------
-Since there is no owner for faction or government properties, only the requisite amount of law enforcement must be online. Factions may have stashes that are approved by the Faction Team which require their approval to break into.
+Since there is no owner for faction or government properties, only the requisite amount of law enforcement must be online.
 
 Warrants & Property Inspections
 -------------------------------
