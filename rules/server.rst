@@ -50,9 +50,12 @@ There are two kinds of currencies. Out of character and in character ones. In ch
 Inactivity
 ==========
 During inactivity, your assets will be force-sold. Assets only being your interiors and vehicles. Money and items on your characters will not be removed during inactivity. If an asset is force-sold with this reason, it is not refundable. An asset, of any type, is considered inactive after having not been entered in 14 days or the owner has been inactive for 30 days. Only one of the two is needed.  
+
 Interiors
 ---------
-Interiors can be force-sold including all the side interiors linked to the property. If a house is inactive, the garage will be force-sold along. This is to keep the properties as one. The main property always overrules the sub-properties. So if a garage or bedroom is inactive but the house itself isn't, the house and all subinteriors (including the inactive one) cannot be force-sold.
+Interiors can be force-sold including all the side interiors linked to the property. If a house is inactive, the garage will be force-sold along with it. This is to keep the properties as one. The main property always overrules the sub-properties. So if a garage or bedroom is inactive but the house itself isn't, the house and all subinteriors (including the inactive one) cannot be force-sold.
+
+Interiors may be force sold by admins if the owner is avoiding the inactivity scanner without the use of inactivity protection by logging on and using the interior or having a friend use the interior without roleplaying on the server with that chracter.
 
 Vehicles
 --------
