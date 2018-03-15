@@ -22,17 +22,17 @@ Examples:
 
 Arson
 =====
-Comitting arson requires that an adequate number of emergency service employees are online to respond to the fire and must be approved by any administrator. All arson requires the owner of the property to be online when the request is made to administrators.
+Comitting arson requires that an adequate number of emergency service employees are available to respond to the fire and must be approved by any administrator. All arson requires the owner of the property to be online when the request is made to administrators.
 
 Note: It is assumed that all gas stations and government buildings have fire prevention systems.
 
 Small Fires
 -----------
-Vehicles, small buildings without anyone inside, sheds, and similar places may be targeted with arson provided that there are at least two firefighters online.
+Vehicles, small buildings without anyone inside, sheds, and similar places may be targeted with arson provided that there are at least two firefighters available.
 
 Large Fires
 -----------
-Large buildings, buildings with people inside, forest fires, and similar places may be targeted with arson provided there are at least five firefighters online.
+Large buildings, buildings with people inside, forest fires, and similar places may be targeted with arson provided there are at least five firefighters available.
 
 Kidnapping
 ===========
@@ -61,15 +61,15 @@ You may not rob / steal:
 
 Residential Property
 --------------------
-All private residential property may be broken into and burglarized. The owner of the property must be online when the request is made in conjunction with at least two law enforcement officers. 
+All private residential property may be broken into and burglarized at any time except when the owner of the property is logged out inside the interior. When the request is made at least two law enforcement officers must be available to respond.
 
 Commercial Property
 -------------------
-Commercial property such as storefronts, offices, businesses, etc, may be broken into and burgalarized. At least two law enforcement must be online. The owner does not need to be online.
+Commercial property such as storefronts, offices, businesses, etc, may be broken into and burgalarized. At least two law enforcement must be available to respond.
 
 Faction & Government Property
 -----------------------------
-Since there is no owner for faction or government properties, only the requisite amount of law enforcement must be online.
+Since there is no owner for faction or government properties, only the requisite amount of law enforcement must be available.
 
 Warrants & Property Inspections
 -------------------------------
