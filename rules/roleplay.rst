@@ -189,7 +189,7 @@ Prohibited
 ----------
 Roleplay in the following list is not prohibited in any circumstance:
 
-* Sexual roleplay of minors (Younger than 16)
+* Sexual roleplay of minors (younger than 16)
 
 Roleplay Binds
 ===============
