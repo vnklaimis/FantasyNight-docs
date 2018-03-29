@@ -187,7 +187,7 @@ You may withdraw your consent at anytime during the roleplay.
 
 Prohibited
 ----------
-Roleplay in the following list is not prohibited in any circumstance:
+Roleplay in the following list is prohibited in any circumstance:
 
 * Sexual roleplay of minors (younger than 16)
 
