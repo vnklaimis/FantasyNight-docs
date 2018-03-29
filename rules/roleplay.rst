@@ -172,16 +172,24 @@ Generally character kill clauses for factions cover anyone who is an associate a
 
 Extreme or Disgusting Roleplay
 ===============================
+
+Consent
+-------
 Every party involved, including witnesses, must OOCly agree to participate in any of the situations listed below:
 
 * Rape
 * Cannibalism
-* Pedophilia
 * Bestiality
 * Necrophilia
 * Sexual Harassment
 
 You may withdraw your consent at anytime during the roleplay.
+
+Prohibited
+----------
+Roleplay in the following list is not prohibited in any circumstance:
+
+* Sexual roleplay of minors (Younger than 16)
 
 Roleplay Binds
 ===============
