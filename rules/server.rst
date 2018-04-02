@@ -55,7 +55,7 @@ Interiors
 ---------
 Interiors can be force-sold including all the side interiors linked to the property. If a house is inactive, the garage will be force-sold along with it. This is to keep the properties as one. The main property always overrules the sub-properties. So if a garage or bedroom is inactive but the house itself isn't, the house and all subinteriors (including the inactive one) cannot be force-sold.
 
-Interiors may be force sold by admins if the owner is avoiding the inactivity scanner without the use of inactivity protection by logging on and using the interior or having a friend use the interior without roleplaying on the server with that chracter.
+Interiors may be force sold by admins if the owner is avoiding the inactivity scanner without the use of inactivity protection by logging on and using the interior or having a friend use the interior without roleplaying on the server with that character.
 
 Vehicles
 --------
