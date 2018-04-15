@@ -3,7 +3,7 @@ Faction Rules
 ##############
 .. note::
 
-  Further information regarding factions such as critera for becoming official or making requests may be found in the Faction Information thread. 
+  Further information regarding factions such as critera for becoming official or making requests may be found in the Faction Information thread.
   
 Faction Wars
 ============
