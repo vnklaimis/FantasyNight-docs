@@ -106,7 +106,7 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `JGC <http://www.jgcweb.net/>`_
 *  `Los Santos Pawn <http://lspawn.xyz>`_
 *  `Sabor Colombiano <http://andreshenao3.wixsite.com/saborcolombiano>`_
-*  `Fairbet <https://fairbet.bruk.pt/>`_
+*  `Price's Specialties <http://price.bruk.pt//>`_
 *  `Hopwood Enterprises <http://hopwoodenterprises.altervista.org/>`_
 *  `SONE <http://andreshenao3.wixsite.com/sone>`_
 *  `Metro Public Safety - RMPF <http://mps-tech.tk/>`_
