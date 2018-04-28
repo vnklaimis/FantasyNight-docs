@@ -49,3 +49,7 @@ In the event that a faction, both legal or illegal succumb to inactivity, all fa
 * Any interior is OOCly deleted or modified.
 * Any faction asset such as a gun NPC is deleted.
 * A voluntary shutdown is set into motion.
+
+Interior Activity
+=================
+Factions should make an effort to keep their interiors active. Activity with faction interiors is not the same as activity with regular interiors that players own. This means the interiors should be used by the faction and roleplayed with or an attempt to do such must be made. Sitting on interiors and hoarding them may get them force sold. These interiors are evaluated on a case by case basis by the Faction Team.
