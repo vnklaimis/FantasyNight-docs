@@ -61,7 +61,7 @@ You may not rob / steal:
 
 Residential Property
 --------------------
-All private residential property may be broken into and burglarized at any time except when the owner of the property is logged out inside the interior. When the request is made at least two law enforcement officers must be available to respond.
+All private residential property may be broken into and burglarized at any time except when the owner of the property is logged out inside the interior or when another player logged out of the interior within the last 7 days. When the request is made at least two law enforcement officers must be available to respond.
 
 Commercial Property
 -------------------
