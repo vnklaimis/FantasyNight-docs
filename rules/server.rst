@@ -27,7 +27,13 @@ Transferring assets is strictly limited to premium users. If you wish to transfe
 
 Scams
 =====
-Scamming of vehicles and properties is not allowed by any means.
+Scamming of vehicles and properties is not allowed by any means. In general this means performing an action which gives you legal posession of a property or vehicle through deceit.  
+
+**Example of Scamming**
+Promising to pay money after someone sells you a property or vechicle and not paying the money as promised.
+
+**Example of Not Scamming**
+Taking a property or vehicle through force or robbery, in this instance, posession was never taken legally through deceit.
 
 AFKing
 ======
