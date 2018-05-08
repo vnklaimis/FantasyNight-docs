@@ -125,6 +125,7 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `M-Corporation <http://mcorp.ultraplay.lv>`_
 *  `Diamond News <http://diamondcorporation.cf/news>`_
 *  `KB's Bargains <https://www.kaasisbaas.com/kbsbargains/>`_
+*  `CargoRoad <http://cargoroad.kissr.com>`_
 
 
  
