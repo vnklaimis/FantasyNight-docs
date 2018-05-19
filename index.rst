@@ -2,12 +2,12 @@ Welcome to OwlGaming's documentation!
 ######################################
 
 This documentation covers rules and features of the `OwlGaming Community`_.
-This resource uses both markdown and Sphinx in .txt documents.
+This resource uses both markdown and Sphinx.
 Use the side bar for navigation.
 
 .. _OwlGaming Community: https://owlgaming.net/
 .. _Forums: https://forums.owlgaming.net/
-.. _github: https://github.com/OwlGamingCommunity
+.. _git: https://gitlab.com/OwlGamingCommunity
 
 .. toctree::
    :maxdepth: 2
@@ -24,4 +24,4 @@ Links
 ==================
 
 * `Forums`_
-* `Github`_
+* `Gitlab`_
