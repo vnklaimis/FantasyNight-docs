@@ -112,21 +112,13 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `JGC <http://www.jgcweb.net/>`_
 *  `Los Santos Pawn <http://lspawn.xyz>`_
 *  `Sabor Colombiano <http://andreshenao3.wixsite.com/saborcolombiano>`_
-*  `Price's Specialties <http://price.bruk.pt//>`_
 *  `Hopwood Enterprises <http://hopwoodenterprises.altervista.org/>`_
 *  `SONE <http://andreshenao3.wixsite.com/sone>`_
-*  `Metro Public Safety - RMPF <http://mps-tech.tk/>`_
-*  `Mondinin Incorporated <http://mondini.webs.com/>`_
-*  `Rudolf Ardelmann Clothing <https://bartiex.wixsite.com/rardelmann>`_
 *  `LS Roll n' Bowl <http://www.lsrollnbowl.com>`_
-*  `Beast Kustoms <https://beastkustoms.simdif.com>`_
-*  `Griffin Automotive LLC <http://griffinautomotive.cf>`_
-*  `Highley Towing <http://highleytowing.x10.bz/index.php>`_
 *  `M-Corporation <http://mcorp.ultraplay.lv>`_
-*  `Diamond News <http://diamondcorporation.cf/news>`_
-*  `KB's Bargains <https://www.kaasisbaas.com/kbsbargains/>`_
 *  `CargoRoad <http://cargoroad.kissr.com>`_
 *  `A1 Automotive <http://a1automotive.altervista.org/>`_
-
+*  `Beverly Avenue Pawn & Loan <http://www.beverlyavenue.xyz>`_
+*  `Grace Corporation <http://grace-corporation.cf/>`_
 
  
