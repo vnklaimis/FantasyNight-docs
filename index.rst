@@ -7,7 +7,7 @@ Use the side bar for navigation.
 
 .. _OwlGaming Community: https://owlgaming.net/
 .. _Forums: https://forums.owlgaming.net/
-.. _git: https://gitlab.com/OwlGamingCommunity
+.. _Gitlab: https://gitlab.com/OwlGamingCommunity
 
 .. toctree::
    :maxdepth: 2
