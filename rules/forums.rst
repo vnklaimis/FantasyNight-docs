@@ -46,5 +46,8 @@ Doxing
 =======
 Do not research or broadcast, personal or identifiable information about an individual without explicit permission.
 
+IC Content
+==========
+You may not make IC posts(auctions, advertisements, etc) whilst banned in the game server.
 
 *Forum administrators may issue warnings, infractions, or bans at their own discretion for breaking the forum rules. You may appeal all punishments at our ticket center* `HERE. <https://owlgaming.net/support/>`_ *Content and works submitted by posting, submission, file uploads, and file links, which were created or posted by you, may be used, modified, deleted, etc, at the discretion of Owl Gaming.*
