@@ -37,9 +37,7 @@ Weapon licenses may be attained in character by filing the required paperwork fo
 
 Legally purchased weapons and ammunition may not be sold on the black market or to friends illegally. Legally purchased weapons may also not be used for criminal purposes.
 
-It is prohibited to stat transfer weapons. If this rule is broken, punishment similar to alt to alt will occur.
-
-Tier 1 and 2 licenses availbiites and restrictions are dependent on the in character laws at the time. A Tier 3 license must be requested from the Faction Team.
+Tier 1 and 2 licenses availabilities and restrictions are dependent on the in character laws at the time. A Tier 3 license must be requested from the Faction Team.
 
 NPCs & Shops
 ===============
