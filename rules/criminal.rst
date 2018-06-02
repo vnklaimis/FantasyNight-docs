@@ -53,7 +53,7 @@ You may not rob / steal:
 * More than $3,000 from someone's bank account utilizing their stolen automated teller card (unless the player agrees).
 * Property or vehicle keys (unless the player agrees).
   
- Some pieces of property require Upper Administration Approval to break into. They are:
+Some pieces of property require Upper Administration Approval to break into. They are:
 
 * Evidence Storage
 * Ammunations
