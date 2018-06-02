@@ -233,4 +233,17 @@ All government buildings and gas stations are assumed to have sufficient cameras
 
 Roleplay Zone
 =============
-All roleplay must be done within a confined zone known as "`Los Santos County <https://imgkk.com/i/44da.jpg>`_". There are exceptions for dynamic situations such as car chases which may naturally lead outside of the roleplay zone. Additional exceptions may be specific ones approved by the Upper Administration Team such as the drag strip in Las Venturas.
+All roleplay must be done within a confined zone known as "`Los Santos County <https://imgkk.com/i/44da.jpg>`_". There are exceptions for dynamic situations such as car chases which may naturally lead outside of the roleplay zone. Additional exceptions may be specific ones approved by the Upper Administration Team through an Upper Administration Contact. 
+
+When traveling to these "`approved zones outside of Los Santos County <https://imgkk.com/i/kuue.png>`_", the goal should be to go to or from the location. Do not use traveling to these areas as an excuse to then roleplay somewhere in between. For example, if you are traveling to the Las Venturas dragstrip, you should not be stopping off at the desert to hide evidence before you arrive at the dragstrip. An exception to this would be things like law enforcement running speed traps along roads to one of these approved locations or roleplaying a traffic accident that occurs along the way.
+
+The airports listed in the exceptions below are to allow aviation roleplayers to refuel and generally interact with to simulate longer flights and stops at other airports. Functionality at those airports should not replace the Los Santos International Airport such as vehicle storage, offices/interiors, training facilities, etc.
+
+The list of approved zones for roleplay outside of Los Santos County are:
+
+* (A) Major Airports
+* (B) Area 69 (Law Enforcement / Government Only)
+* (C) Drag Strip
+* (D) Vehicle Team Import Location
+* (E) Golf Course
+
