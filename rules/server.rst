@@ -102,12 +102,13 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `Linkbook <http://linkbook.thomaspwn.com/>`_
 * Google Drive (Docs, spreadsheets, etc.)
 
-  * Los Santos County Sheriff's Department
-  * Los Santos County Fire Department
-  * Los Santos County Government
+  * Los Santos Police Department
+  * Los Santos Department of Public Safety
+  * Los Santos County Government (CPQL)
+  * Los Sant0s International Airport
   * Superior Court of San Andreas
   * Bureau of Traffic Services
-  * All Saints General Hospital
+  * Saint Ernest Medical Center
   
 *  `JGC <http://www.jgcweb.net/>`_
 *  `Los Santos Pawn <http://lspawn.xyz>`_
@@ -120,5 +121,6 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `A1 Automotive <http://a1automotive.altervista.org/>`_
 *  `Beverly Avenue Pawn & Loan <http://www.beverlyavenue.xyz>`_
 *  `Grace Corporation <http://grace-corporation.cf/>`_
+*  `The Supply Sergeant <http://thesupplysergeant.xyz/index.php>`_
 
  
