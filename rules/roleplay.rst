@@ -78,7 +78,7 @@ No application is needed to player kill someone. Only a solid in character reaso
 
 Roleplaying After a Player Kill
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If a character is player killed and the scene is left after they respawn, the players involved should roleplay that the unconscious character is found by a good Samaritan, emergency services were called and they were taken to the hospital. The person that was player killed would then after they respawn at the hospital, roleplay in the hospital for a period of time for their injuries to heal and continue to roleplay those injuries accordingly.
+If a character is player killed and the scene is left after they respawn, the players involved should roleplay that the unconscious character is found by a good samaritan, emergency services were called, and they were taken to the hospital. The person that was player killed would then after they respawn at the hospital, roleplay in the hospital for a period of time for their injuries to heal and continue to roleplay those injuries accordingly.
 
 Do not respawn and immediately run around as if nothing happened!
 
@@ -127,6 +127,8 @@ Robberies which are organized, whether spur of the moment or heavily pre-planned
   * A car of gang members burst into a convenient store to rob it. Inside is someone carrying a gun. Upon seeing the men aim a gun at the cashier, they draw their gun and manage to shoot two of the robbers and kill them.
 
 Furthermore, just like with disregard for life, not all robbery related deaths have to be character kills. If robbers jump out of a van and aim guns at a woman on the side of the street, it is a normal, instinctive reaction for someone to immediately run at the first sight of a gun. If that woman is then shot in the back, her death wouldn't be considered a character kill. If she is, however, cornered in an allyway for a moment with guns to her face and she tries to run or escape or physically resist, she's had some time to think about the scenario and running isn't a purely instinctual response at that point, thus, her death could be a character kill. (Though again, it could just as easily be a player kill too! Those do have severe consequences!)
+
+In the case described above, where someone runs from a robbery and gets shot and player killed rather than character killed, this would be a form of disregard in a robbery context, thus, the player may still rob the unconscious (player killed) victim of their posessions to prevent players from abusing a player kill as a way out of a robbery.
 
 Planned or Supervised Events
 """"""""""""""""""""""""""""
