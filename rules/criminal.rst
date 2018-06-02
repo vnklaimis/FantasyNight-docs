@@ -13,9 +13,9 @@ All restricted areas may have crimes purposefully committed on them such as robb
 Examples:
 
 * Government Buildings such as County Hall, Memorials, Court Houses, Court Offices, and similar Facilities
-* All Saints General Hospital, County General Hospital, or similar Medical Facilities
+* Saint Ernest Medical Center, County General Hospital, or similar Medical Facilities
 * Los Santos Police Department HQ and Precincts and Facilities
-* Los Santos Fire Department HQ & Facilities 
+* Los Santos Department of Public Safety HQ & Facilities 
 * San Andreas Detention Center
 * Bank of Los Santos 
 
@@ -58,6 +58,8 @@ You may not rob / steal:
 * Evidence Storage
 * Ammunations
 * Banks
+
+Keys, automated teller machine cards, and custom skins may not be robbed / stolen from people while those items are in their posession (directly in their inventory). When these items are dropped on the ground, put in storage locations, put in vehicles to start them, voluntairly given, etc, they are no longer restricted from being taken.
 
 Residential Property
 --------------------
