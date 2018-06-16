@@ -65,7 +65,7 @@ Interiors may be force sold by admins if the owner is avoiding the inactivity sc
 
 Vehicles
 --------
-Vehicles will never be force-sold, unless it has been parked in a force-sold interior and you have been inactive for 30 days or it has not been used for 14 days. If you purchase an interior that was force-sold and vehicles still exist in the interior, they will be deleted if inactive or they will be taken as parked there in character. When being impounded you also have 14 days to release your vehicle, else the respective faction may claim your vehicle and sell it to another player. This regardless if you're inactive or not.
+Vehicles will never be force-sold, unless it has been parked in a force-sold interior and you have been inactive for 30 days or it has not been used for 14 days. If you purchase an interior that was force-sold and vehicles still exist in the interior, they will be deleted if inactive or they will be taken as parked there in character.
 
 Impersonations
 ==============
