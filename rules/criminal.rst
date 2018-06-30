@@ -83,7 +83,7 @@ Unless otherwise specified, all safes in interiors are to be roleplayed as mid-t
   
 Character Robberies
 -------------------
-You may not player kill someone just before, during, or directly after a petty robbery. This is to prevent abuse of the amnesia effect when normally violence would not be utilized. The exception to this is if someone shows disregard for their life or there is some other exigent circumstance such as police showing up and you shoot at them to prevent them tackling you if you try to escape.
+You may not player kill someone just before, during, or directly after a petty robbery. This is to prevent abuse of the amnesia effect when normally violence would not be utilized. A player would be excempt from this rule if there was clear intent that the PK of the victim was not to use the amnesia effect, but rather to protect themselves (victim disregarding their life, taking extra steps to get you caught) or exterior motive (intent to kill due to previous encounters). In the end it is up to the handling administrators best judgement to determine if the PK was being used to maliciously abuse the amnesia effect.
   
 Vehicle Robbery
 ---------------
