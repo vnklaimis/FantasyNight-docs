@@ -63,11 +63,13 @@ Keys, automated teller machine cards, and custom skins may not be robbed / stole
 
 Residential Property
 --------------------
-All private residential property may be broken into and burglarized at any time except when the owner of the property is logged out inside the interior or when another player logged out of the interior within the last 7 days. When the request is made at least two law enforcement officers must be available to respond.
+All private residential property may be broken into and burglarized at any time except when the owner of the property is logged out inside the interior or when another player logged out of the interior within the last 7 days. When the request is made at least two law enforcement officers must be available to respond. Residential refers to a style of property that is designed for people to live in, not including recreational vehicles, boats, and other simlar enterable vehicles.
+
+Properties that are not strictly commercial nor residential (home garages being the most common) which are attached to or immediately adjoining a residential property on the same piece of land and owned by the same person fall under this 7 day exception despite not being strictly residential (livible). A common example of this would be the garages next to houses in Palomino Creek. This is because in reality, if you were in your house next to the garage and it was broken into, you would likely hear the glass smash, or crashing, etc.
 
 Commercial Property
 -------------------
-Commercial property such as storefronts, offices, businesses, etc, may be broken into and burgalarized. At least two law enforcement must be available to respond.
+Commercial property such as storefronts, offices, businesses, warehouses, and other non-residential properties, may be broken into and burgalarized. At least two law enforcement must be available to respond.
 
 Faction & Government Property
 -----------------------------
