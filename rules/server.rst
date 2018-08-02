@@ -105,7 +105,7 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
   * Los Santos Police Department
   * Los Santos Department of Public Safety
   * Los Santos County Government (CPQL)
-  * Los Sant0s International Airport
+  * Los Santos International Airport
   * Superior Court of San Andreas
   * Bureau of Traffic Services
   * Saint Ernest Medical Center
