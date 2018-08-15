@@ -68,7 +68,7 @@ Death
 
 Player Kills
 ------------
-A player kill is when your character is killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning. If you are revived by an administrator to roleplay your wounds after being player killed, this does not reverse the amnesia effects unless an administrator specifically tells you the amnesia is voided for a particular reason. Player kills do not necessairly require a script death for the effects of of a player kill to exist such as amnesia and severe injuries.
+A player kill is when your character is killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning. If you are revived by an administrator to roleplay your wounds after being player killed, this does not reverse the amnesia effects unless an administrator specifically tells you the amnesia is voided for a particular reason. Player kills do not necessairly require a script death for the effects of a player kill to exist such as amnesia and severe injuries.
 
 **Example 1**
 
