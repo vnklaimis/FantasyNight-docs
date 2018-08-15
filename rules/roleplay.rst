@@ -68,11 +68,23 @@ Death
 
 Player Kills
 ------------
-A player kill is when your character is killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning.
+A player kill is when your character is killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning. If you are revived by an administrator to roleplay your wounds after being player killed, this does not reverse the amnesia effects unless an administrator specifically tells you the amnesia is voided for a particular reason. Player kills do not necessairly require a script death for the effects of of a player kill to exist such as amnesia and severe injuries.
 
-**Example**
+**Example 1**
 
-  John Smith goes to a bar in a bad part of town and meets a particularly violent drunk named Wilson LaRoche who while minding his own     business, hits his girlfriend a few times. John Smith, being a white knight of the situation, tries to intervene. The two get into a     physical altercation and while Wilson is inebriated he loses some self control, kicking John Smith repeatedly in the face after he       collapsed against an arcade machine. Slumped in the corner, John Smith is player killed where he his health is depleted and he is       killed script-wise.
+  John Smith goes to a bar in a bad part of town and meets a particularly violent drunk named Wilson LaRoche who while minding his own business, hits his girlfriend a few times. John Smith, being a white knight of the situation, tries to intervene. The two get into a physical altercation, and while Wilson is inebriated, he loses some self-control, kicking John Smith repeatedly in the face after he collapsed against an arcade machine. Slumped in the corner, John Smith is player killed where he his health is depleted, and he is killed script-wise.
+  
+  **Example 2**
+  
+  James McGill roleplays falling 20 feet into the interstate off a bridge. Scriptwise, his fall does not take all of his HP, but from a roleplay perspective, he would clearly hit his head, causing him to go unconscious, resulting in amnesia and a severe brain injury or other injuries, making the fall by all practical means, a player kill. A secondary version of this example would be a sucker punch that knocks someone out, or a bat swung at the back of someone's head in an ambush.
+  
+  **Example 3**
+  
+  Miles Morrison is beat viciously by a group of thugs and loses consciousness, sustains a broken wrist and other bruising and cuts. Because this is a severe beating from a roleplay perspective and he lost consciousness, this situation for him is treated as a player kill, and he sustains the amnesia effect, and they are not required to "brawl" him and kill Miles through the script.
+  
+  **Example 4**
+  
+  Harry Johnson is shot in the middle of a driveby shooting. He begins to lose blood after sustaining a gunshot wound to his arm and abdomen. He is not near a vehicle and begins to run to his house for the phone he left inside to call 911. He stumbles to the doorway and slumps down, still losing blood. A loss of blood causes unconsciousness, and eventually, he fails to reach his phone. In this instance, we can see how injuries that worsen over time such as being shot and losing blood may result in the same practical outcome as a player kill like when you are shot and lose all of your script health, but it is just on a longer time horizon.
 
 No application is needed to player kill someone. Only a solid in character reason.
 
