@@ -27,7 +27,7 @@ Any faction that is financially supported through the Faction Team or Scripting 
 
 Corruption
 ==========
-Corruption in governmnet factions is restricted unless a set of parameters is created and submitted to the Faction Team for approval. After approval, the faction leadership may delegate according to the parameters who has corruption. 
+Corruption in government factions is restricted unless a set of parameters is created and submitted to the Faction Team for approval. After approval, the faction leadership may delegate according to the parameters who has corruption. 
 
 Financial corruption such as embezzling money is not allowed under any circumstances unless FT leadership & UAT approval is given.
 
