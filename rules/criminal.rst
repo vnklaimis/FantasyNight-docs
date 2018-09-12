@@ -48,9 +48,8 @@ You may not rob / steal:
 * Other characters with less than 5 hours.
 * On-duty law enforcement officer's equipment without administraive permission.
 * Faction badges or identification cards.
-* Automated teller machine cards (unless the player agrees).
 * Private custom skins (unless the player agrees).
-* More than $3,000 from someone's bank account utilizing their stolen automated teller card (unless the player agrees).
+* More than $5,000 from someone's bank account utilizing their stolen automated teller card (unless the player agrees).
 * Property or vehicle keys (unless the player agrees).
   
 Some pieces of property require Upper Administration Approval to break into. They are:
