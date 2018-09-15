@@ -36,7 +36,7 @@ Signatures shall be non-intrusive and small. No moving images or embedded videos
 
 Auction Rules
 =============
-We have a forum auction system which may be used by the players. The rules are found `HERE. <https://forums.owlgaming.net/topic/42730-auction-regulations/>`_
+We have a forum auction system which may be used by the players. The rules are found `HERE. <https://forums.owlgaming.net/topic/90714-welcome-to-the-los-santos-auction-house/>`_
 
 Plagiarism
 ==========
