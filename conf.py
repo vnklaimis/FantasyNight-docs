@@ -56,7 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'OwlGaming'
-copyright = '2017, OwlGaming Community'
+copyright = '2018, OwlGaming Community'
 author = 'OwlGaming Community'
 
 # The version info for the project you're documenting, acts as replacement for
