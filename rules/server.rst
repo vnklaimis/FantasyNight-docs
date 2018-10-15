@@ -122,5 +122,9 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `Beverly Avenue Pawn & Loan <http://www.beverlyavenue.xyz>`_
 *  `Grace Corporation <http://grace-corporation.cf/>`_
 *  `The Supply Sergeant <http://thesupplysergeant.xyz/index.php>`_
+*  `Sparta Inc. <http://www.spartainc.icweb.org/>`_
+
+
+
 
  
