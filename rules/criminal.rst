@@ -94,4 +94,6 @@ Vehicle Theft
 -------------
 Vehicle theft refers to actually taking and moving the vehicle in question. This may only be done or attempted once every 24 hours. Just like robbery, government vehicles require permission from an administrator. An exception to this is a spontaneous vehicle pursuit and the government vehicle in question is co-opted.
 
-If the key is in the inventory of a vehicle, you may steal the car without admin permission. If the player timed out you may not steal the vehicle, an admin can check connection logs to determine if the player timed out.
+If the key is in the inventory of a vehicle, you may steal the car without admin permission. If the ignition key is digitally signed, the county hall locksmith will not copy the key without proof of vehicle ownership(vehicle title & accompanying ID). In order to have the key copied, the player must roleplay gathering tools and key blanks to do the digital copying themselves.
+
+If the player timed out you may not steal the vehicle, an admin can check connection logs to determine if the player timed out.
