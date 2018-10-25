@@ -15,7 +15,7 @@ All players of OwlGaming shall treat everyone respectfully. Insulting, trolling,
 
 Multiple Accounts
 =================
-You are not allowed to use more than one account on our MTA server and forums - from the same IP or computer. Getting caught with 2 or more accounts will result in a permanent ban, with the option of a ban appeal to explain yourself on the forums. The permanent ban is done as a precaution. If you are playing with a sibling you must have special approval from UAT and it is never allowed to play from the same serial. File for this either through our `Support Center`_ or through a `UAT Contact`_.
+You are not allowed to use more than one account on our MTA server and forums - from the same IP or computer. Getting caught with 2 or more accounts will result in a permanent ban, with the option to appeal on our ticket center. The permanent ban is done as a precaution. If you are playing with a sibling you must have special approval from UAT and it is never allowed to play from the same serial. File for this either through our `Support Center`_ or through a `UAT Contact`_.
 
 Selling Accounts
 ----------------
