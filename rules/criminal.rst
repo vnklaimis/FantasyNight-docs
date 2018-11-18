@@ -28,11 +28,11 @@ Note: It is assumed that all gas stations and government buildings have fire pre
 
 Small Fires
 -----------
-Vehicles, small buildings without anyone inside, sheds, and similar places may be targeted with arson provided that there are at least two firefighters available.
+Vehicles, small buildings without anyone inside, sheds, and similar places may be targeted with arson without firefighters available assuming the fire remains contained.
 
 Large Fires
 -----------
-Large buildings, buildings with people inside, forest fires, and similar places may be targeted with arson provided there are at least five firefighters available.
+Large buildings, buildings with people inside, forest fires, and similar places may be targeted with arson provided there are at least two firefighters available, or three or more if rescue is involved.
 
 Kidnapping
 ===========
