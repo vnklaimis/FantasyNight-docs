@@ -103,7 +103,7 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 * Google Drive (Docs, spreadsheets, etc.)
 
   * Los Santos Police Department
-  * Los Santos Department of Public Safety
+  * Los Santos Fire Department
   * Los Santos County Government (CPQL)
   * Los Santos International Airport
   * Superior Court of San Andreas
@@ -115,13 +115,9 @@ Exceptions to this rule are approved by the Upper Administration Team on a case-
 *  `Sabor Colombiano <http://andreshenao3.wixsite.com/saborcolombiano>`_
 *  `Hopwood Enterprises <http://hopwoodenterprises.altervista.org/>`_
 *  `SONE <http://andreshenao3.wixsite.com/sone>`_
-*  `LS Roll n' Bowl <http://www.lsrollnbowl.com>`_
 *  `M-Corporation <http://mcorp.ultraplay.lv>`_
 *  `CargoRoad <http://cargoroad.kissr.com>`_
 *  `A1 Automotive <http://a1automotive.altervista.org/>`_
-*  `Beverly Avenue Pawn & Loan <http://www.beverlyavenue.xyz>`_
-*  `Grace Corporation <http://grace-corporation.cf/>`_
-*  `The Supply Sergeant <http://thesupplysergeant.xyz/index.php>`_
 *  `Sparta Inc. <https://www.spartainc.info/>`_
 
 
