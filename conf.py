@@ -106,13 +106,16 @@ html_theme_options = {
     'collapse_navigation': False,
     'display_version': False,
     'canonical_url': 'https://docs.owlgaming.net/',
-    'sticky_navigation': True
+    'sticky_navigation': True,
+    'logo_only': True
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['.static']
+
+html_logo = 'owlgaming.png'
 
 
 # -- Options for HTMLHelp output ------------------------------------------
