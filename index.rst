@@ -32,6 +32,8 @@ Below are some important links to our various official websites that will be ref
 .. toctree::
     :maxdepth: 2
     :caption: Tutorials
+
+    tutorials/troubleshooting_joining_v
         
 .. toctree::
     :maxdepth: 2
