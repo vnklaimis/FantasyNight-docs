@@ -28,12 +28,40 @@ At this time, RageMP does not support Windows 7 fully. As a result, you may be a
 ********************
 Enable Clientside CS
 ********************
-Ensure you have added a file called **"enable-clientside-cs.txt"** to your RageMP installation. Do not make the file extention in all caps like **".TXT"** and ensure it's a text file, not another filetype named **".txt"**.
+.. note::
+    Please ensure file name extensions is turned on. If they are not, you might accidentally name the file with an additional ".txt" which will cause an error.
+
+Ensure you have added a file called **"enable-clientside-cs.txt"** to your RageMP installation. Do not make the file extention in all caps like **".TXT"** and ensure it's a text file, not another filetype named **".txt"** or a text file with an extra ".txt" added onto the
+
+.. figure:: https://i.imgur.com/ftTaz3N.png
+
+    With file extensions turned **ON** your file should look like this.
+
+.. figure:: https://i.imgur.com/DlAVWbH.png
+
+    To ensure file name extensions is turned on, this is where it is in your folder view options.
+
 
 **************************************
 Spawned As A Dog / Storage .blob Error
 **************************************
-If you spawned as a dog and or get a popup error similar to **"Data Storage Error #4"** with **"undefined:0"**, this may be fixed by navigating to your **"blob_storage"** folder located inside your Rage install folder and deleting the contents inside.
+If you spawned as a dog and or get a popup error similar to **"Data Storage Error #4"** or **"Data Storage Error #2"** with **"undefined:0"**, this may be fixed by navigating to your **"blob_storage"** folder located inside your Rage install folder and deleting the contents inside.
+
+.. figure:: https://i.imgur.com/gPUd2xY.png
+
+    An example of the type of error received.
+
+***********
+.NET Errors
+***********
+Some users are unable to launch their game through Rage in general. This is because of a .NET "FATAL ERROR".
+
+.. figure:: https://i.imgur.com/8T2dlsD.png
+
+    An example of the type of error received.
+
+To fix this issue you'll want to update your .NET Framework packages from your Windows 10 Updater, not from a download on the Microsoft website to ensure you are using the appropriate version. If this problem persists, ensure that you do not have any compatability mode turned on for your RageMP or GTA V executables. Turning on compatability mode will make it so Windows 10 .NET Framework packages are not used and thus break the launching of the game.
+
 
 *********************
 General RageMP Issues

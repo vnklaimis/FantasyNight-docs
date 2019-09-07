@@ -1,6 +1,6 @@
-##############
+##################
 Grand Theft Auto V
-##############
+##################
 
 .. note::
     Please remember when dealing with roleplay as a whole, it is a complex subject. One player's interpretation of a situation may be different from another player's. If you suspect powergaming, metagaming, or some other rule violation, an attempt to clarify the situation is always encouraged. Please check out our official roleplay guides and tutorials so you as a player understand the quality and standards that are expected to avoid accidentally breaking rules.
@@ -33,19 +33,19 @@ Users of OwlGaming are prohibited from metagaming. Metagaming is defined as usin
 ***********
 Powergaming
 ***********
-Users of OwlGaming are prohibited from powergaming. Powergaming is defined as forcing your actions upon another player such as declaring your actions successful automatically or otherwise doing something unrealistic or roleplaying an action that is not possible. A player should generally be given the opportunity to respond to actions being taken against them in character.
+Users of OwlGaming are prohibited from powergaming. Powergaming is defined as forcing your actions upon another player such as declaring your actions successful automatically or otherwise doing something unrealistic or roleplaying an action that is not possible. A player should generally be given the opportunity to respond to actions being taken against them in character. Certain skin combinations which are considered powergaming should be avoided, such as invisible arms, torso, floating body parts, etc.
 
-| **Example 1:** 
-| John Smith walks up in front of Tim Bloggins and roleplays punching him, knocking him out. This is powergaming because Tim Bloggins was never given the opportunity to respond and the presumption that Tim would immediately be knocked out is unreasonable at face value. Similarly, if John Smith roleplayed ambushing Tim Bloggins with a baseball bat to the back of the head from behind, John Smith should still not assume they knock Tim Bloggins out, however, Tim should generally roleplay being knocked out or being incapacitated and severely injured if not dead. Failure to do so on Tim's part would be powergaming against John.
+    | **Example 1:** 
+    | John Smith walks up in front of Tim Bloggins and roleplays punching him, knocking him out. This is powergaming because Tim Bloggins was never given the opportunity to respond and the presumption that Tim would immediately be knocked out is unreasonable at face value. Similarly, if John Smith roleplayed ambushing Tim Bloggins with a baseball bat to the back of the head from behind, John Smith should still not assume they knock Tim Bloggins out, however, Tim should generally roleplay being knocked out or being incapacitated and severely injured if not dead. Failure to do so on Tim's part would be powergaming against John.
 
-| **Example 2:** 
-| John Smith is restrained by Tim Bloggins using handcuffs. John Smith can still resist actions taken against himself in some capacity by wiggling around and such, however, it would be powergaming for him to outright state actions made against himself by Tim Bloggins would fail. For example, Tim Bloggins could grab John underneath his arms and drag him somewhere else. John Smith would be able to kick his feet and resist but ultimately, Tim Bloggins would succeed in normal circumstances.
+    | **Example 2:** 
+    | John Smith is restrained by Tim Bloggins using handcuffs. John Smith can still resist actions taken against himself in some capacity by wiggling around and such, however, it would be powergaming for him to outright state actions made against himself by Tim Bloggins would fail. For example, Tim Bloggins could grab John underneath his arms and drag him somewhere else. John Smith would be able to kick his feet and resist but ultimately, Tim Bloggins would succeed in normal circumstances.
 
-| **Example 3:** 
-| John Smith is struck by tazer prongs while running from police and incapacitated. He falls to the ground and responds with "/do The police would fail." when the police attempt to roleplay cuffing John. Making such a /do constitutes powergaming. John Smith is already at a disadvantage physically and failing to explain why the police would fail in apprehending him is powergaming.
+    | **Example 3:** 
+    | John Smith is struck by tazer prongs while running from police and incapacitated. He falls to the ground and responds with "/do The police would fail." when the police attempt to roleplay cuffing John. Making such a /do constitutes powergaming. John Smith is already at a disadvantage physically and failing to explain why the police would fail in apprehending him is powergaming.
 
-| **Example 4:** 
-| John Smith drives a lowrider offroad at a high rate of speed and fails to roleplay damage. This is considered powergaming because the vehicle would not be able to sustain such conditions without breaking or becoming inoperable.
+    | **Example 4:** 
+    | John Smith drives a lowrider offroad at a high rate of speed and fails to roleplay damage. This is considered powergaming because the vehicle would not be able to sustain such conditions without breaking or becoming inoperable.
 
 Brawls
 ======
@@ -56,25 +56,25 @@ Vehicular Collisions
 ====================
 All vehicle collisions which would result in injuries that would stunt the operation of the vehicle should be roleplayed. 
 
-| **Example 1:** 
-| John Smith is being chased by police. The police decide to perform a PIT maneuver on John in his vehicle to disable him from proceeding with his evasion. The PIT is semi-successful, however, John only spins out in the middle of the road without striking anything that would clearly disable the vehicle or injure him substantially causing him to halt. John does not need to roleplay spinning out as the physics of Grand Theft Auto portray the vehicle spinning out of control sufficently. This situation is also high paced and John stopping to type would result in him being surrounded by police and give the police an unfair advantage. 
+    | **Example 1:** 
+    | John Smith is being chased by police. The police decide to perform a PIT maneuver on John in his vehicle to disable him from proceeding with his evasion. The PIT is semi-successful, however, John only spins out in the middle of the road without striking anything that would clearly disable the vehicle or injure him substantially causing him to halt. John does not need to roleplay spinning out as the physics of Grand Theft Auto portray the vehicle spinning out of control sufficently. This situation is also high paced and John stopping to type would result in him being surrounded by police and give the police an unfair advantage. 
 
-| **Example 2:** 
-| John Smith is speeding down the road and hits a patch of dirt, causing him to swerve and side-swipe an electrical pole. The collision occurred at 30 MPH. In this instance, further RP is not necessary because the vehicle would not be disabled from a side-swipe nor would John receive more severe injuries than being jolted around or possibly receiving some bruising from the seatbelt. If, on the other hand, John had smashed his vehicle into a concrete bollard, that would clearly disable his vehicle and cause injuries which would halt the operation of the vehicle for a substantial period of time, thus, injuries, the collision, etc, should all be roleplayed.
+    | **Example 2:** 
+    | John Smith is speeding down the road and hits a patch of dirt, causing him to swerve and side-swipe an electrical pole. The collision occurred at 30 MPH. In this instance, further RP is not necessary because the vehicle would not be disabled from a side-swipe nor would John receive more severe injuries than being jolted around or possibly receiving some bruising from the seatbelt. If, on the other hand, John had smashed his vehicle into a concrete bollard, that would clearly disable his vehicle and cause injuries which would halt the operation of the vehicle for a substantial period of time, thus, injuries, the collision, etc, should all be roleplayed.
 
 Character Development
 =====================
 The development of a character over time determines what they are capable of and inherently defines what is and is not powergaming. 
 
-| **Example 1:** 
-| John Smith roleplays working out regularly in the gym and lifts weights in an attempt to become stronger. John, generally speaking, is stronger and more capable of physically overpowering someone else in an altercation than someone who has never roleplayed strength training before. This does not automatically mean that John can then run around beating people up without competition, however, in more nuanced situations where the strength of someone may become the determining factor in whether or not they succeed, this character development would comme into play.
+    | **Example 1:** 
+    | John Smith roleplays working out regularly in the gym and lifts weights in an attempt to become stronger. John, generally speaking, is stronger and more capable of physically overpowering someone else in an altercation than someone who has never roleplayed strength training before. This does not automatically mean that John can then run around beating people up without competition, however, in more nuanced situations where the strength of someone may become the determining factor in whether or not they succeed, this character development would comme into play.
 
-| **Example 2:** 
-| John Smith is part of a criminal gang. He is involved in a house robbery and sees a safe. Unable to break in with brute force, John suddenly decides his character has a history of being a locksmith and has the ability to crack safes. This not having been previously defined in John Smith's character story and not having been roleplayed before means he is powergaming by saying he has this skill on a whim. 
+    | **Example 2:** 
+    | John Smith is part of a criminal gang. He is involved in a house robbery and sees a safe. Unable to break in with brute force, John suddenly decides his character has a history of being a locksmith and has the ability to crack safes. This not having been previously defined in John Smith's character story and not having been roleplayed before means he is powergaming by saying he has this skill on a whim. 
 
 Special Characters
 ------------------
-Users of OwlGaming are required to obtain permission from the `Upper Adminsitration Team`_ VIA a Public Contact if they wish to roleplay one of their characters having a particular subset of skills or severe deficiencies such as but not limited to:
+Users of OwlGaming are required to obtain permission from the `Upper Administration Team`_ VIA a Public Contact if they wish to roleplay one of their characters having a particular subset of skills or severe deficiencies such as but not limited to:
 
 * Mentally Challenged
 * Skilled Martial Artists
@@ -92,23 +92,23 @@ Player Kills
 ************
 A player kill occurs when a character is killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning. If a player is revived by an administrator to roleplay their wounds after being player killed, this does not reverse the amnesia effects unless an administrator specifically tells them the amnesia is voided for a particular reason. Player kills do not necessairly require a script death for the effects of a player kill to exist such as amnesia and severe injuries.
 
-    | **Example:** 
+    | **Example 1:** 
     | John Smith goes to a bar in a bad part of town and meets a particularly violent drunk named Wilson LaRoche who while minding his own business, hits his girlfriend a few times. John Smith, being a white knight of the situation, tries to intervene. The two get into a physical altercation, and while Wilson is inebriated, he loses some self-control, kicking John Smith repeatedly in the face after he collapsed against an arcade machine. Slumped in the corner, John Smith is player killed where he his health is depleted, and he is killed script-wise.
     
-    | **Example:** 
+    | **Example 2:** 
     | James McGill roleplays falling 20 feet into the interstate off a bridge. Scriptwise, his fall does not take all of his HP, but from a roleplay perspective, he would clearly hit his head, causing him to go unconscious, resulting in amnesia and a severe brain injury or other injuries, making the fall by all practical means, a player kill. A secondary version of this example would be a sucker punch that knocks someone out, or a bat swung at the back of someone's head in an ambush.
     
-    | **Example:** 
+    | **Example 3:** 
     | Miles Morrison is beat viciously by a group of thugs and loses consciousness, sustains a broken wrist and other bruising and cuts. Because this is a severe beating from a roleplay perspective and he lost consciousness, this situation for him is treated as a player kill, and he sustains the amnesia effect, and they are not required to "brawl" him and kill Miles through the script.
     
-    | **Example:** 
+    | **Example 4:** 
     | Harry Johnson is shot in the middle of a driveby shooting. He begins to lose blood after sustaining a gunshot wound to his arm and abdomen. He is not near a vehicle and begins to run to his house for the phone he left inside to call 911. He stumbles to the doorway and slumps down, still losing blood. A loss of blood causes unconsciousness, and eventually, he fails to reach his phone. In this instance, we can see how injuries that worsen over time such as being shot and losing blood may result in the same practical outcome as a player kill like when you are shot and lose all of your script health, but it is just on a longer time horizon.
 
     No application is needed to player kill someone. Only a solid in character reason.
 
-    Roleplaying After a Player Kill
-    ===============================
-    If a character is player killed and the scene is left after they respawn, the players involved should roleplay that the unconscious character is found by a good samaritan, emergency services were called, and they were taken to the hospital. The person that was player killed would then after they respawn at the hospital, roleplay in the hospital for a period of time for their injuries to heal and continue to roleplay those injuries accordingly.
+Roleplaying After a Player Kill
+===============================
+If a character is player killed and the scene is left after they respawn, the players involved should roleplay that the unconscious character is found by a good samaritan, emergency services were called, and they were taken to the hospital. The person that was player killed would then after they respawn at the hospital, roleplay in the hospital for a period of time for their injuries to heal and continue to roleplay those injuries accordingly.
 
 Do not respawn and immediately run around as if nothing happened!
 
@@ -140,14 +140,14 @@ Disregard for Life
 ------------------
 Someone showing disregard for their own life or unnecessary risk such as acting suicidally or generally not caring for their actions as carefully as they would in real life. Below are some examples of disregard.
 
-| **Example 1:** 
-| Pulling a gun out on a police officer during a basic traffic top resulting in a citation.
+    | **Example 1:** 
+    | Pulling a gun out on a police officer during a basic traffic top resulting in a citation.
 
-| **Example 2:** 
-| Reckless handling of a vehicle or aircraft and crashing it which would clearly result in death, especially at a very high rate of speed.
+    | **Example 2:** 
+    | Reckless handling of a vehicle or aircraft and crashing it which would clearly result in death, especially at a very high rate of speed.
 
-| **Example 3:** 
-| Police acting like they’re invincible, failing to follow proper safety protocol, or acting out unrealistically in situations where they normally wouldn’t.
+    | **Example 3:** 
+    | Police acting like they’re invincible, failing to follow proper safety protocol, or acting out unrealistically in situations where they normally wouldn’t.
 
 Please note, not all forms of disregard must or even should result in a character kill. The circumstances of the scenario and context matter greatly. If someone is resisting capture or kidnapping against 4 people, their chances of actually escaping and telling the police is slim to none which means if one of those 4 kidnappers is a hothead and shoots the person resisting capture, it should not be immediately deemed a character kill. The weight of their actions should be taken into account.
 
@@ -155,11 +155,11 @@ Organized Robberies
 -------------------
 Robberies which are organized, whether spur of the moment or heavily pre-planned are common circumstances in which a player (the robber) may be character killed. This includes heists, ammunation robberies, quick 24/7 robberies, etc.
 
-| **Example 1:** 
-| John Smith is being robbed by Tim Bloggins, who is wielding a gun. Rather than give up the $100 John has in his wallet, he pulls out his own gun out and attempts to shoot Tim. Tim then shoots and kills John.
+    | **Example 1:** 
+    | John Smith is being robbed by Tim Bloggins, who is wielding a gun. Rather than give up the $100 John has in his wallet, he pulls out his own gun out and attempts to shoot Tim. Tim then shoots and kills John.
 
-| **Example 2:** 
-| A car of gang members burst into a convenient store to rob it. Inside is someone carrying a gun. Upon seeing the gang members aim a gun at the cashier, they draw their gun and manage to shoot two of the robbers and kill them.
+    | **Example 2:** 
+    | A car of gang members burst into a convenient store to rob it. Inside is someone carrying a gun. Upon seeing the gang members aim a gun at the cashier, they draw their gun and manage to shoot two of the robbers and kill them.
 
 Furthermore, just like with disregard for life, not all robbery related deaths have to be character kills. If robbers jump out of a van and aim guns at a woman on the side of the street, it is a normal, instinctive reaction for someone to immediately run at the first sight of a gun. If that woman is then shot in the back, her death wouldn't be considered a character kill. If she, however, is cornered in an allyway for a moment with guns to her face and she tries to run or escape or physically resist, she's had some time to think about the scenario and running isn't a purely instinctual response at that point, thus, her death could be a character kill. (Though again, it could just as easily be a player kill too. Those do have severe consequences!)
 
@@ -169,14 +169,14 @@ Planned or Supervised Events
 ----------------------------
 Some events such as large fires, catastrophic weather, terrorist attacks, freak accidents, etc, are pre-planned or setup and supervised by admins. Some naturally occurring events become these types of large situations such as a large gang shootout, large pile-up car accident, and so on. During these types of events players may be eligible for a character kill as well.
 
-| **Example 1:** 
-| A plane crashes into a building where the fuel catches on fire and you are caught in the blaze.
+    | **Example 1:** 
+    | A plane crashes into a building where the fuel catches on fire and you are caught in the blaze.
 
-| **Example 2:** 
-| A landslide beside a mountain which crushes you as a civil servant or a civilian standing too close, observing the scene.
+    | **Example 2:** 
+    | A landslide beside a mountain which crushes you as a civil servant or a civilian standing too close, observing the scene.
 
-| **Example 3:** 
-| A man hunt for a criminal within a certain area who is knowingly armed and dangerous. 
+    | **Example 3:** 
+    | A man hunt for a criminal within a certain area who is knowingly armed and dangerous. 
 
 Roleplaying Death
 -----------------
@@ -187,27 +187,27 @@ Infiltrating Organizations
 Characters that infiltrate an organization to gain intelligence, insiders knowledge, evidence, or any other means of information that could harm the survival of an organization. This clause focuses primarily on law enforcement infiltrating criminal organizations, but is applicable the other way around or with criminal organizations infiltrating each other as well.
 
 
-| **Example 1:** 
-| A detective joins a street gang to help police take them down. One of the gang members finds out and murders the detective.
+    | **Example 1:** 
+    | A detective joins a street gang to help police take them down. One of the gang members finds out and murders the detective.
 
-| **Example 2:** 
-| A lawyer joins a law firm to plot and overthrow the organization, steal accounts, clients, etc. One of the rival lawyers involved hires a bum to stab the infiltrator in a spur of the moment idea just after a big argument.
+    | **Example 2:** 
+    | A lawyer joins a law firm to plot and overthrow the organization, steal accounts, clients, etc. One of the rival lawyers involved hires a bum to stab the infiltrator in a spur of the moment idea just after a big argument.
 
-| **Example 3:** 
-| A criminal or informant joining the police department to gain knowledge for a gang. A detective with corruption that finds out they have been deceived in a blind rage one night kills the informant.
+    | **Example 3:** 
+    | A criminal or informant joining the police department to gain knowledge for a gang. A detective with corruption that finds out they have been deceived in a blind rage one night kills the informant.
 
 Police Situations
 -----------------
 If a situation arises where the death of a police officer is justified by the hands of (a) criminal(s) due to serious ramifications that the player would suffer if caught, a character kill may be enforced for both parties. Police officers as a whole though are not character killed if they are simply doing their job. Character kills on police officers are also not justified if a player utilizes violence on a police officer to prevent themselves from being caught for less substantial crimes such as robbery, battery, drug dealing, weapon possession, etc. Players who escalate the level of force used against police officers cannot use that escalation to justify a character kill. An example of this will be below.
 
-| **Example 1:** 
-| A criminal is fleeing police custody for a drug charge. If they shoot at police to escape this, it wouldn't be a character kill because the punishment they are fleeing from is not essentially life threatening like life in prison would be for murder. If the criminal fleeing police for a drug charge shoots at the police, even though this was escalated to potentially attempted murder, a character kill wouldn't be valid because the escalation was done by the fleeing party. Forcing a character kill on the officer at this point would mean that the vast majority of police deaths like this are character kills which is unsustainable.
+    | **Example 1:** 
+    | A criminal is fleeing police custody for a drug charge. If they shoot at police to escape this, it wouldn't be a character kill because the punishment they are fleeing from is not essentially life threatening like life in prison would be for murder. If the criminal fleeing police for a drug charge shoots at the police, even though this was escalated to potentially attempted murder, a character kill wouldn't be valid because the escalation was done by the fleeing party. Forcing a character kill on the officer at this point would mean that the vast majority of police deaths like this are character kills which is unsustainable.
 
-| **Example 2:** 
-| A criminal has an arrest warrant out on them for murder which would result in life in prison. The player shoots at the police officer to prevent the officer from identifying and arresting them so they may escape. The police officer may be killed in this situation where substantial stakes are at risk. Foreknowledge is a mitigating factor in this circumstance. If the officer did not know there was an arrest warrant for murder, the chances of them being character killed are reduced. If they did know they had an arrest warrant on them for murder, the chances are increased.
+    | **Example 2:** 
+    | A criminal has an arrest warrant out on them for murder which would result in life in prison. The player shoots at the police officer to prevent the officer from identifying and arresting them so they may escape. The police officer may be killed in this situation where substantial stakes are at risk. Foreknowledge is a mitigating factor in this circumstance. If the officer did not know there was an arrest warrant for murder, the chances of them being character killed are reduced. If they did know they had an arrest warrant on them for murder, the chances are increased.
 
-| **Example 3:** 
-| During a gun deal where a high-level gang leader is involved a police officer pulls up on them. In order to protect the identity of the high-level gang leader and prevent an investigation which could cripple the gang, everyone flees and a few of the gang members at the deal shoot at the police officer, killing them.
+    | **Example 3:** 
+    | During a gun deal where a high-level gang leader is involved a police officer pulls up on them. In order to protect the identity of the high-level gang leader and prevent an investigation which could cripple the gang, everyone flees and a few of the gang members at the deal shoot at the police officer, killing them.
 
 Character Kill Clauses
 ----------------------
@@ -308,11 +308,11 @@ Scams
 *****
 OwlGaming users may not scam other players of their in character assets. In general, this means performing an action which gives you legal possession of a property or vehicle through deceit.  
 
-| **Example of Scamming**
-| Promising to pay money after someone sells you a property or vechicle and not paying the money as promised.
+    | **Example of Scamming**
+    | Promising to pay money after someone sells you a property or vechicle and not paying the money as promised.
 
-| **Example of Not Scamming**
-| Taking a property or vehicle through force or robbery, in this instance, possession was never taken legally through deceit.
+    | **Example of Not Scamming**
+    | Taking a property or vehicle through force or robbery, in this instance, possession was never taken legally through deceit.
 
 .. note::
     Using deceit to setup a robebry such as agreeing to buy a vehicle and then robbing that vehicle, or robbing the cash someone brought to buy a vehicle is not considered scamming because legal possession, such as signing a contract, never took place.
@@ -432,11 +432,11 @@ If planning to leave a character to starve to death, one must have a Character K
     A character will not be considered abandoned or starved if there is an attempt made to interact with the kidnaped character every few days such as leaving food / water and attempting to coordinate times where they may be able to both get on and roleplay together.
 
 ***********************************
-Property Break-Ins, Robbery & Theft
+Burglary, Robbery, & Theft
 ***********************************
 If administrative intervention is necessary to complete a robbery or theft, such as unlocking a door that was kicked in, it must adhere to the following rules and needs administrative approval. If a door was left open, for example, and you just walked in, you do not need to follow the rules below or seek approval. Administrator assistance to grant access to something that is powergamed is an exception to this. (Such as a shoebox being locked scriptwise but otherwise it would be totally accessible.)
 
-An administrator is needed if property break-ins are done through the use of a door ram and you are not law enforcement. 
+An administrator is needed if burglaries are done through the use of a door ram and you are not law enforcement. 
 
 Players may not rob:
 
