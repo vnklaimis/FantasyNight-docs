@@ -13,6 +13,7 @@ Below are some important links to our various official websites that will be ref
 * `Wiki`_
 * `Gitlab`_
 * `Bugtracker`_
+* `Discord`_
 
 .. _OwlGaming Community: https://owlgaming.net/
 .. _Forums: https://forums.owlgaming.net/
@@ -20,6 +21,7 @@ Below are some important links to our various official websites that will be ref
 .. _Main Site: https://owlgaming.net/
 .. _Wiki: https://wiki.owlgaming.net
 .. _Bugtracker: https://bugs.owlgaming.net/my_view_page.php 
+.. _Discord: https://discord.gg/whf5RFn
 
 .. toctree::
     :maxdepth: 2
@@ -34,6 +36,7 @@ Below are some important links to our various official websites that will be ref
     :caption: Tutorials
 
     tutorials/troubleshooting_joining_v
+    tutorials/beginner_tutorial_v
         
 .. toctree::
     :maxdepth: 2
