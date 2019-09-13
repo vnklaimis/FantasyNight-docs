@@ -10,9 +10,6 @@ Beginner Tutorial
 .. _User Control Panel: https://owlgaming.net/account/
 .. _Discord: https://discord.gg/whf5RFn
 
-.. note::
-    If this troubleshooting guide does not help, please seek further assistance on our Discord and Forums. If a solution for joining our GTA V server is not on here and has helped you, please inform the staff of OwlGaming so we may keep this as up to date as possible!
-
 ***********
 First Steps
 ***********
