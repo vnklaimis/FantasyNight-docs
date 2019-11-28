@@ -284,12 +284,6 @@ User Installed Cameras
 ======================
 All CCTV camera installations/upgrades must be approved by an administrator and added to the interior note. This installation must include a device to store the data.
 
-*************
-Roleplay Zone
-*************
-Players should not roleplay inside the city of Los Santos. There are exceptions for dynamic situations like car chases which may naturally lead outside of the roleplay zone. Additional exceptions may be specific ones approved by the Upper Administration Team through an Upper Administration Contact. 
-
-The Los Snatos airport is an exception to this limitation to allow aviation roleplayers to refuel and generally interact with to simulate longer flights and stops at other airports. 
 
 *********
 Interiors
