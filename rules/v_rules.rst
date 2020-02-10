@@ -93,7 +93,7 @@ Player Kills
 A player kill occurs when a character is killed, simulating unconsciousness and amnesia which extends as far back as that particular roleplay situation's beginning. If a player is revived by an administrator to roleplay their wounds after being player killed, this does not reverse the amnesia effects unless an administrator specifically tells them the amnesia is voided for a particular reason. Player kills do not necessairly require a script death for the effects of a player kill to exist such as amnesia and severe injuries.
 
     | **Example 1:** 
-    | John Smith goes to a bar in a bad part of town and meets a particularly violent drunk named Wilson LaRoche who while minding his own business, hits his girlfriend a few times. John Smith, being a white knight of the situation, tries to intervene. The two get into a physical altercation, and while Wilson is inebriated, he loses some self-control, kicking John Smith repeatedly in the face after he collapsed against an arcade machine. Slumped in the corner, John Smith is player killed where he his health is depleted, and he is killed script-wise.
+    | John Smith goes to a bar in a bad part of town and meets a particularly violent drunk named Wilson LaRoche who while minding his own business, hits his girlfriend a few times. John Smith, being a white knight of the situation, tries to intervene. The two get into a physical altercation, and while Wilson is inebriated, he loses some self-control, kicking John Smith repeatedly in the face after he collapsed against an arcade machine. Slumped in the corner, John Smith is player killed where his health is depleted, and he is killed script-wise.
     
     | **Example 2:** 
     | James McGill roleplays falling 20 feet into the interstate off a bridge. Scriptwise, his fall does not take all of his HP, but from a roleplay perspective, he would clearly hit his head, causing him to go unconscious, resulting in amnesia and a severe brain injury or other injuries, making the fall by all practical means, a player kill. A secondary version of this example would be a sucker punch that knocks someone out, or a bat swung at the back of someone's head in an ambush.
@@ -501,3 +501,16 @@ Vehicle theft refers to actually taking and moving the vehicle in question a sub
 If the key is in the inventory of a vehicle, you may steal the car without admin permission. If the ignition key is digitally signed, an NPC locksmith will not copy the key without proof of vehicle ownership (vehicle title & accompanying ID). In order for a player locksmith to copy the key, they must roleplay gathering the appropriate tools and key blanks to do the digital copying themselves.
 
 If the player timed out you may not steal their vehicle, an admin can check connection logs to determine if the player timed out or not.
+
+***********************************
+Donator Pets
+***********************************
+Pets should be treated realistically, particularly in situations involving conflict roleplay. 
+
+For instance, it is reasonable to assume that you could tell your dog to sit, stay, and lay down. It would also be reasonable to assume that a pet could defend its owner if they are being attacked, provided the animal is capable of doing so (a dog might, a cormorant wouldn't) if the owner decides to roleplay that. It would not be reasonable to assume that you could command your dog to attack someone, or perform another specialized task like that without putting a fair amount of time and energy into training the pet.
+
+Injury & Death
+==============
+Pets are treated like players when it comes to injuries and death. In order to seriously injure or debilitate a pet (a player kill equivalent), you must have a solid in character reason. The injuries incurred should then be treated by a veterinarian, just like a player would be treated at the hospital for their injuries. An administrator may decide to permanently kill (a character kill basically) a pet if the circumstance is dire enough, or it is warranted based on the roleplay at hand. This is far more likely in situations where a retaliation against a player by targeting their pet is valid or in circumstances where a player decides to endanger their pet through roleplay such as their pet defending them, attacking someone else, or something similar.
+
+If a pet is considered to have died, kidnapped, or put in similar circumstances where the player is no longer able to roleplay the use of their pet normally, they can roleplay buying a new pet and enjoy the usage of the donator perk still. Essentially, no in character action taken against a pet can deprive someone of using their donator perk. 
