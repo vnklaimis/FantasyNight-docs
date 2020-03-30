@@ -23,11 +23,6 @@ Owl V Launcher
 The first thing we recommend for those having trouble connecting to our Owl V server is to use our `Owl Launcher`_ that will automatically verify your RageMP files are set up properly. Some users have reported receiving a "Windows SmartScreen" error when runnig the launcher. This may be ignored. Click "More Info" and then "Run Anyway" to continue running the launcher.
 
 ********************
-Windows 7 / Keybinds
-********************
-At this time, RageMP does not support Windows 7 fully. As a result, you may be able to connect to the server but critical components may not work like keybinds aside from default controls. These keybinds end up being crucial to custom controls our server uses. To remedy this, we recommend that you upgrade to Windows 10.
-
-********************
 Enable Clientside CS
 ********************
 .. note::
