@@ -22,28 +22,10 @@ Owl V Launcher
 **************
 The first thing we recommend for those having trouble connecting to our Owl V server is to use our `Owl Launcher`_ that will automatically verify your RageMP files are set up properly. Some users have reported receiving a "Windows SmartScreen" error when runnig the launcher. This may be ignored. Click "More Info" and then "Run Anyway" to continue running the launcher.
 
-********************
-Enable Clientside CS
-********************
-.. note::
-    Please ensure file name extensions is turned on. If they are not, you might accidentally name the file with an additional ".txt" which will cause an error.
-
-Ensure you have added a file called **"enable-clientside-cs.txt"** to your RageMP installation. Do not make the file extention in all caps like **".TXT"** and ensure it's a text file, not another filetype named **".txt"** or a text file with an extra ".txt" added onto the
-
-.. figure:: https://i.imgur.com/ftTaz3N.png
-
-    With file extensions turned **ON** your file should look like this.
-
-.. figure:: https://i.imgur.com/DlAVWbH.png
-
-    To ensure file name extensions is turned on, this is where it is in your folder view options.
-
-
 **************************************
 Spawned As A Dog / Storage .blob Error
 **************************************
 If you spawned as a dog and or get a popup error similar to **"Data Storage Error #4"** or **"Data Storage Error #2"** with **"undefined:0"**, this may be fixed by navigating to your **"blob_storage"** folder located inside your Rage install folder and deleting the contents inside. 
-Another cause for spawning as a dog is due to your enable-clientside-cs txt file not being set up properly in your RAGE directory.
 
 .. figure:: https://i.imgur.com/gPUd2xY.png
 
