@@ -17,11 +17,6 @@ In General
 Check to ensure that you have allowed RageMP access through your firewall and antivirus. These may be blocking your connection or the client from functioning properly, preventing you from joining Owl V. Additionally, verify that you have installed RageMP properly and meet their requirements by viewing their `tutorial here`_.
 RAGE Multiplayer does not support pirated copies of Grand Theft Auto V, therefore in order to play, you must ensure you have a legitimate copy of the game. 
 
-**************
-Owl V Launcher
-**************
-The first thing we recommend for those having trouble connecting to our Owl V server is to use our `Owl Launcher`_ that will automatically verify your RageMP files are set up properly. Some users have reported receiving a "Windows SmartScreen" error when runnig the launcher. This may be ignored. Click "More Info" and then "Run Anyway" to continue running the launcher.
-
 **************************************
 Spawned As A Dog / Storage .blob Error
 **************************************
