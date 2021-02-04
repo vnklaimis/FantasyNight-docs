@@ -4,9 +4,10 @@ Beginner Tutorial
 .. _bug tracker: https://bugs.owlgaming.net/
 .. _UAT Contact: https://forums.owlgaming.net/forms/10-upper-administration-contact-ooc/
 .. _Support Center: https://owlgaming.net/support/
-.. _Owl Launcher: http://files.owlgaming.net/OwlLauncher.exe
 .. _tutorial here: https://wiki.rage.mp/index.php?title=Getting_Started_with_Client
 .. _Forums: https://forums.owlgaming.net/
+.. _LSPD: https://leo.owlgaming.net/
+.. _LSCFD: https://dps.owlgaming.net/
 .. _User Control Panel: https://owlgaming.net/account/
 .. _Discord: https://discord.gg/whf5RFn
 
@@ -39,6 +40,14 @@ To type in the chatbox, press "**T**". You can adjust your chat settings by clic
 +---------------+------------------------------------------------------------------------------------------------+
 | /do           | Display an action that happens around your character.                                          |
 +---------------+------------------------------------------------------------------------------------------------+
+| /ame          | Display an action above your head your character would do.                                     |
++---------------+------------------------------------------------------------------------------------------------+
+| /ado          | Display an action above your head that happens around your character.                          |
++---------------+------------------------------------------------------------------------------------------------+
+| /status       | Display an description line above your head that's persistent, similar to /ado.                |
++---------------+------------------------------------------------------------------------------------------------+
+| /delstatus    | Removes the /status displayed above your head at that time.                                    |
++---------------+------------------------------------------------------------------------------------------------+
 | /c            | Whisper locally, such as to a small group of friends huddled around.                           |
 +---------------+------------------------------------------------------------------------------------------------+
 | /w            | Whisper to a specific individual, such as in their ear.                                        |
@@ -62,6 +71,8 @@ To type in the chatbox, press "**T**". You can adjust your chat settings by clic
 | /stats        | Displays your character's statistics such as properties and money.                             |
 +---------------+------------------------------------------------------------------------------------------------+
 | /park         | Parks your vehicle, ensuring that is where it respawns.                                        |
++---------------+------------------------------------------------------------------------------------------------+
+| /seatbelt     | Unbuckles / Buckles your seatbelt                                                              |
 +---------------+------------------------------------------------------------------------------------------------+
 
 World Interaction
@@ -137,13 +148,17 @@ There are a large variety of custom controls on the server, however, below is a 
 +----------+---------------------------------------------------------------+
 | L        | Turn your headlights on or switch to high beams.              |
 +----------+---------------------------------------------------------------+
+| G        | Engage/disengages the handbrake.                              |
++----------+---------------------------------------------------------------+
+| X        | Rolls your vehicle's windows up/down                          |
++----------+---------------------------------------------------------------+
 | [ or ]   | Toggles right or left turn signal or both for 4-way flashers. |
 +----------+---------------------------------------------------------------+
 | Tab      | Display a list of players on the server.                      |
 +----------+---------------------------------------------------------------+
 | Y        | Open your chat input with the radio command pre-typed.        |
 +----------+---------------------------------------------------------------+
-| B        | Open your chat input without of character chat pre-typed.     |
+| B        | Open your chat input with out of character chat pre-typed.    |
 +----------+---------------------------------------------------------------+
 | I        | Open your inventory.                                          |
 +----------+---------------------------------------------------------------+
@@ -152,8 +167,6 @@ There are a large variety of custom controls on the server, however, below is a 
 | E        | Interact with the world.                                      |
 +----------+---------------------------------------------------------------+
 | F        | Get into vehicle as driver.                                   |
-+----------+---------------------------------------------------------------+
-| G        | Interact with the world.                                      |
 +----------+---------------------------------------------------------------+
 | NUMPAD 5 | Turn on spotlight for law enforcement vehicles.               |
 +----------+---------------------------------------------------------------+
@@ -167,11 +180,21 @@ To find out where you are press "**ESC**" or "**P**" to bring up your map. Click
 
 There are a variety of markers but the most important ones starting out will be the "G" marker for the "**Los Santos County Government - County Hall**" and "**Paleto Bay Autos**". You can get your driving license at the county hall and purchase a vehicle at the dealership. Phones, food, and other items can be bought at the main gas station in Paleto Bay.
 
-As you look around the map, you'll notice that there are no markers in Los Santos. Currently, we only roleplay in the county of the map and players are prohibited from going to the city or roleplaying there.
+On the right side of your map, you'll be able to find a legend specifying all the icons and what they are. You can scroll through that list with your scroll wheel (if clicked on once) and with your arrows up and down. Your map will, if you switch through icons, automatically focus the selected icon. Much like in GTA Online, you can then hit enter to put a waypoint marker on said icon.
 
+
+Los Santos
+----------
+.. figure:: https://i.imgur.com/bGWcuqs.png
+
+    On the left is the (G) icon for the County Hall. The blue car icon is for the DMV vehicles. On the right is the building itself.
+
+
+Paleto Bay
+----------
 .. figure:: https://i.imgur.com/Np7AkYq.png
 
-    On the left is the (G) icon for the DMV and County Hall. On the right is the building itself.
+    On the left is the (G) icon for the DMV and County Hall. The vehicles are down the road at the blue car icon. On the right is the building itself.
 
 
 ************
@@ -193,7 +216,7 @@ Banking & Spending Money
 .. note::
     There are references throughout the script that state "**p/m**" meaning paycheck per month. This reference to your paycheck being monthly does not mean a real life month. A paycheck is hourly.
 
-After you make your money, you'll want to collect it, bank it, or spend it! When you get paid, your money will come in the form of a paycheck every hour. This money is direct deposited into your account so you don't have to worry about carrying around large amounts of cash as you do your job and get paid. You may check how long until your next paycheck by typing "**/payday**".
+After you make your money, you'll want to collect it, bank it, or spend it! When you get paid, your money will come in the form of a paycheck every hour. This money is direct deposited into your account so you don't have to worry about carrying around large amounts of cash as you do your job and get paid. You may check how long until your next paycheck by typing "**/payday**". Once you receive a payday, you can view the details of your paycheck by doing "**/showpayday**".
 
 Any ATM you find functions like a bank where you can deposit, withdraw, or wire transfer money to other players. Each player also receives state benifits totaling **$500**. If you make a gross income of over **$1,000** then your state benifits will end until that number is lowered to below that threshold. This regular income in conjunction with a job you have will help you afford your first home or vehicle on credit, meaning, you can make an initial down payment on a vehicle then pay it off over the course of multiple paychecks rather than have to save up enough money to buy that home or vehicle outright in cash. 
 
@@ -207,7 +230,7 @@ The above image shows the housing purchasing interface. On the left blue rectang
 
 Token Vehicles & Houses
 -----------------------
-Every character starts out with a vehicle and house token. These tokens are effectively vouches, that allow you to redeem them for one vehicle and house for free. The vehicle you can get is anything in the compact car list whereas the house you may get is anything up to a value of **$50,000**. This means that any new player can start roleplaying from day one without having to do a script job if they don't want. For example, someone wanting to roleplay a school teacher should not have to drive a garbage truck around to make money if they don't want to.
+Every character starts out with a vehicle and house token. These tokens are effectively vouches, that allow you to redeem them for one vehicle and house for free. The vehicle you can get is anything in the token vehicle category whereas the house you may get is anything up to a value of **$50,000**. This means that any new player can start roleplaying from day one without having to do a script job if they don't want. For example, someone wanting to roleplay a school teacher should not have to drive a garbage truck around to make money if they don't want to.
 
 This allows everyone in the server to get closer to that average middle-class level which affords a lot of roleplay opportunity. 
 
@@ -220,7 +243,7 @@ Your next steps would be to roleplay! Check out the server, interact with the ch
 
 It is highly recommended that you look for other players to roleplay with, specifically factions. Factions are a great way to interact with other players AND make good money. 
 
-We invite you to join our forums as said above, check out our Discord, and become a part of the community. 
+We invite you to join our forums as said above, check out our Discord, and become a part of the community! 
 
 
 
