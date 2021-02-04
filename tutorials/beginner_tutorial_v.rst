@@ -184,14 +184,14 @@ On the right side of your map, you'll be able to find a legend specifying all th
 
 
 Los Santos
-----------
+===========
 .. figure:: https://i.imgur.com/bGWcuqs.png
 
     On the left is the (G) icon for the County Hall. The blue car icon is for the DMV vehicles. On the right is the building itself.
 
 
 Paleto Bay
-----------
+==========
 .. figure:: https://i.imgur.com/Np7AkYq.png
 
     On the left is the (G) icon for the DMV and County Hall. The vehicles are down the road at the blue car icon. On the right is the building itself.
