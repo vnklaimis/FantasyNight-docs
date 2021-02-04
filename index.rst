@@ -14,6 +14,8 @@ Below are some important links to our various official websites that will be ref
 * `Gitlab`_
 * `Bugtracker`_
 * `Discord`_
+* `LSPD`_
+* `LSCFD`_
 
 .. _OwlGaming Community: https://owlgaming.net/
 .. _Forums: https://forums.owlgaming.net/
@@ -22,6 +24,8 @@ Below are some important links to our various official websites that will be ref
 .. _Wiki: https://wiki.owlgaming.net
 .. _Bugtracker: https://bugs.owlgaming.net/my_view_page.php 
 .. _Discord: https://discord.gg/whf5RFn
+.. _LSPD: https://leo.owlgaming.net/
+.. _LSCFD: https://dps.owlgaming.net/
 
 .. toctree::
     :maxdepth: 2
