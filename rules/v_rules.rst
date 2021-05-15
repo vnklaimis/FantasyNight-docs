@@ -334,7 +334,7 @@ Vehicles will never be force-sold manually, unless it has been parked in a force
 ***********************
 Use of Government Perks
 ***********************
-Any faction that is financially supported through the Faction Team or scripting may not have a wage higher than $1,500 except for brief periods of time where reasonable bonuses may be given out for the holidays.
+Any faction that is financially supported through the Faction Team or scripting may not have a wage higher than $3,000 except for brief periods of time where reasonable bonuses may be given out for the holidays.
 
 **********
 Corruption
